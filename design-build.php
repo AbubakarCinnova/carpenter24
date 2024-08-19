@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Integration | Design Build </title>
+<title>Carpenter Heating and Cooling | Design Build </title>
 
 
 
@@ -71,104 +71,24 @@
                         <div class="col-lg-12">
                             <div class="row g-4">
                                 <div class="col-lg-12">
-                                    <h2>Design</h2>
 
-                                    <p>At Andrew Casey Integration, our expert engineers deliver advanced design-build
-                                        solutions for security, communication, and life safety systems, along with
-                                        technology deployments. We combine creativity with practicality to create
-                                        customized
-                                        designs tailored to your needs.</p>
-
-                                    <p>Partnering with your team, including architects and engineers, we develop
-                                        effective,
-                                        budget-friendly solutions using the latest technology. Our comprehensive
-                                        approach
-                                        ensures precise, efficient project completion within financial expectations,
-                                        balancing cost and design to provide the best value.</p>
-
-                                    <h2>Build</h2>
-
-                                    <p>At Andrew Casey Integration, we prioritize the flawless execution of your
-                                        project. Our dedicated project teams, including project managers and
-                                        installation
-                                        experts, work together to ensure a seamless experience from start to finish.
-                                        Each
-                                        project is overseen with precision and clear communication, guaranteeing timely
-                                        delivery and adherence to budget.</p>
-
-                                    <h2>Our Integrated Solutions and Services Include:</h2>
-
-                                    <h3>Security Systems</h3>
-                                    <ul>
-                                        <li><strong>Surveillance Camera Systems:</strong> Implement high-definition
-                                            surveillance, fully integrated with your existing security infrastructure.
-                                        </li>
-                                        <li><strong>Access Control Solutions:</strong> Secure entry points with
-                                            advanced, customizable access control systems.</li>
-                                        <li><strong>Video Intercom Systems:</strong> Enhance communication and access
-                                            management with integrated video intercom solutions.</li>
-                                    </ul>
-
-                                    <h3>Fire & Life Safety</h3>
-                                    <ul>
-                                        <li><strong>Fire Alarms:</strong> Deploy reliable fire detection systems with
-                                            central monitoring integration for rapid response.</li>
-                                        <li><strong>Mass Notification Systems:</strong> Relay critical information
-                                            swiftly through integrated emergency communication systems.</li>
-                                        <li><strong>Nurse Call Systems:</strong> Optimize healthcare efficiency with
-                                            integrated nurse call solutions for prompt patient response.</li>
-                                        <li><strong>Wander Management Systems:</strong> Ensure the safety of vulnerable
-                                            individuals with integrated tracking and management systems.</li>
-                                        <li><strong>Alarm Monitoring:</strong> Provide continuous protection with
-                                            integrated, round-the-clock alarm monitoring services.</li>
-                                        <li><strong>Fire Alarm Inspections/Testing:</strong> Maintain compliance with
-                                            thorough, integrated inspection and testing services.</li>
-                                    </ul>
-
-                                    <h3>Network Services</h3>
-                                    <ul>
-                                        <li><strong>Technology Deployments:</strong> Seamlessly integrate new
-                                            technologies across your organization for enhanced productivity.</li>
-                                        <li><strong>Cabling Infrastructure:</strong> Build a robust and scalable network
-                                            with expertly integrated cabling solutions.</li>
-                                        <li><strong>Rack and Stack Services:</strong> Optimize data center operations
-                                            with organized and efficient rack and stack services.</li>
-                                        <li><strong>IoT Solutions:</strong> Leverage IoT integration to connect and
-                                            automate devices, enhancing operational efficiency.</li>
-                                    </ul>
-
-                                    <h3>Audio/Video Solutions</h3>
-                                    <ul>
-                                        <li><strong>Professional Audio Systems:</strong> Deliver superior sound quality
-                                            through expertly integrated audio systems.</li>
-                                        <li><strong>PA Systems:</strong> Ensure clear, reliable communication with
-                                            integrated public address systems.</li>
-                                        <li><strong>Intercom Systems:</strong> Facilitate seamless facility-wide
-                                            communication with integrated intercom solutions.</li>
-                                        <li><strong>School/University Clocks:</strong> Maintain synchronized time with
-                                            integrated clock systems for educational institutions.</li>
-                                        <li><strong>Sound Masking Solutions:</strong> Improve privacy and reduce
-                                            distractions with integrated sound masking systems.</li>
-                                    </ul>
-
-                                    <p>At Andrew Casey Integration, we pride ourselves on being a service-first company
-                                        dedicated to delivering integrated solutions that prioritize your needs. From
-                                        advanced security and life safety systems to network services and audio/video
-                                        solutions, our commitment to seamless integration and reliable support ensures
-                                        every project exceeds expectations. Partner with us to experience unparalleled
-                                        service and expertise, tailored to enhance your operations, security, and
-                                        safety.</p>
-
+                                    <h2>Lorem, ipsum dolor sit amet consectetur </h2>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam neque ex minima
+                                        sapiente, explicabo dolores est dolorem reprehenderit animi corporis doloremque
+                                        id soluta doloribus exercitationem sint repellendus qui eligendi quos?</p>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam neque ex minima
+                                        sapiente, explicabo dolores est dolorem reprehenderit animi corporis doloremque
+                                        id soluta doloribus exercitationem sint repellendus qui eligendi quos?</p>
 
 
 
 
                                 </div>
 
-                                <!-- <div class="col-lg-6">
+                                <div class="col-lg-6">
                                     <img src="images/misc/services-2.webp" class="img-fluid rounded-20px mb-4" alt="">
                                     <img src="images/misc/services-3.webp" class="img-fluid rounded-20px" alt="">
-                                </div> -->
+                                </div>
                             </div>
 
                             <div class="spacer-double"></div>

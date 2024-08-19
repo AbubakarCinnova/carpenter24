@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Integration | About Us</title>
+<title>Carpenter Heating and Cooling | About Us</title>
 
 </head>
 
