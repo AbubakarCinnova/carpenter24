@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Carpenter Heating and Cooling | Design Build </title>
+<title>Carpenter Heating and Cooling | Duct Cleaning </title>
 
 
 
@@ -29,7 +29,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6">
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
-                            <h1>Design Build</h1>
+                            <h1>Duct Cleaning</h1>
                             <ul class="crumb">
                                 <li><a href="index.php">Home</a></li>
                                 <li class="active">Design Build</li>
