@@ -70,7 +70,7 @@
 
                         <div class="col-lg-12">
                             <div class="row g-4">
-                                <div class="col-lg-12">
+                                <div class="col-lg-6">
 
                                     <h2>Lorem, ipsum dolor sit amet consectetur </h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam neque ex minima
