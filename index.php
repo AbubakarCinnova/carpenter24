@@ -889,9 +889,8 @@
                 <div class="container">
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-9">
-                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Quality heating
-                                &amp;
-                                air conditioning solutions</h3>
+                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Carpenter
+                                Heating and Cooling</h3>
                         </div>
 
                         <div class="col-lg-3 text-lg-end text-start">
