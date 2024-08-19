@@ -51,21 +51,21 @@
                                       <ul class="sub-menu">
                                           <!-- Security Sub-Menu -->
                                           <li>
-                                              <a class="menu-item head-menu" href="#">Security </a>
-                                              <ul class="sub-menu">
+                                              <a class="menu-item head-menu" href="#">Installation </a>
+                                              <!--   <ul class="sub-menu">
                                                   <li><a class="menu-item" href="surveillance-cameras.php">Surveillance
                                                           Camera</a></li>
                                                   <li><a class="menu-item" href="access-control.php">Access Control</a>
                                                   </li>
                                                   <li><a class="menu-item" href="video-intercom.php">Video Intercom</a>
                                                   </li>
-                                              </ul>
+                                              </ul> -->
                                           </li>
 
                                           <!-- Fire & Life Safety Sub-Menu -->
                                           <li>
-                                              <a class="menu-item head-menu" href="#">Fire & Life Safety</a>
-                                              <ul class="sub-menu">
+                                              <a class="menu-item head-menu" href="#">Repair </a>
+                                              <!--  <ul class="sub-menu">
                                                   <li><a class="menu-item" href="#">Fire Alarms</a></li>
                                                   <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
                                                   <li><a class="menu-item" href="#">Nurse Call</a></li>
@@ -74,13 +74,13 @@
                                                   <li><a class="menu-item" href="fire-alarm-testing.php">Fire Alarm
                                                           Inspections/Testing</a>
                                                   </li>
-                                              </ul>
+                                              </ul> -->
                                           </li>
 
                                           <!-- Network Services Sub-Menu -->
                                           <li>
-                                              <a class="menu-item head-menu" href="#">Network Services</a>
-                                              <ul class="sub-menu">
+                                              <a class="menu-item head-menu" href="#">Maintenance</a>
+                                              <!--  <ul class="sub-menu">
                                                   <li><a class="menu-item" href="technology-deployments.php">Technology
                                                           Deployments</a></li>
                                                   <li><a class="menu-item" href="cable-infastructure.php">Cabling
@@ -88,29 +88,13 @@
                                                   <li><a class="menu-item" href="rack-stack.php">Rack and Stack</a></li>
                                                   <li><a class="menu-item" href="smart-fleet.php">Smart Fleet
                                                           Systems</a></li>
-                                              </ul>
+                                              </ul> -->
                                           </li>
 
-                                          <!-- Audio/Video Sub-Menu -->
-                                          <li>
-                                              <a class="menu-item head-menu" href="#">Audio/Video</a>
-                                              <ul class="sub-menu">
-                                                  <!-- <li><a class="menu-item" href="#">Professional Audio</a></li> -->
-                                                  <li><a class="menu-item" href="pa-system.php">PA Systems</a></li>
-                                                  <li><a class="menu-item" href="#">Intercom Systems</a></li>
-                                                  <li><a class="menu-item" href="school-clock.php">School/University
-                                                          Clocks</a></li>
-                                                  <li><a class="menu-item" href="sound-masking.php">Sound Masking</a>
-                                                  </li>
-                                              </ul>
-                                          </li>
+
+
                                       </ul>
                                   </li>
-
-
-
-
-
 
                                   <li><a class="menu-item" href="dust-cleaning.php">Dust Cleaning</a></li>
                                   <li><a class="menu-item" href="about.php">About Us</a></li>
