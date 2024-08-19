@@ -75,7 +75,7 @@
                    <div class="col-md-12">
                        <div class="de-flex">
                            <div class="de-flex-col">
-                               Copyright 2024 - Andrew Casey Technologies
+                               Copyright 2024 - Carpenter Heating and Cooling
                            </div>
                            <ul class="menu-simple">
                                <li><a href="#">Terms &amp; Conditions</a></li>
