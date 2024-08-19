@@ -112,6 +112,7 @@
 
 
 
+                                  <li><a class="menu-item" href="dust-cleaning.php">Dust Cleaning</a></li>
                                   <li><a class="menu-item" href="about.php">About Us</a></li>
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>
                               </ul>
