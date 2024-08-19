@@ -10,8 +10,8 @@
                                           9296</a></div>
                                   <div class="topbar-widget"><a href="#"><i
                                               class="icofont-envelope"></i>contact@coolair.com</a></div>
-                                  <div class="topbar-widget"><a href="#"><i class="icofont-wall-clock"></i>Mon - Fri
-                                          08.00 - 18.00</a></div>
+                                  <div class="topbar-widget"><a href="#"><i class="icofont-location-pin"></i>2714 Wall
+                                          Ave, Ogden, UT 84401</a></div>
                               </div>
 
                               <div class="social-icons">
