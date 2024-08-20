@@ -1,8 +1,10 @@
 :root {
     --primary-color: #ef6835 !important;
     --secondary-color: #f6794d !important;
+}
 
-
+footer {
+    background: #121212 !important;
 }
 
 
