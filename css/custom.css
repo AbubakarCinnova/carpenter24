@@ -1,3 +1,11 @@
+:root {
+    --primary-color: #ef6835 !important;
+    --secondary-color: #f6794d !important;
+
+
+}
+
+
 .logo-main,
 .logo-mobile {
     width: 240px;
