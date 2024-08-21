@@ -51,7 +51,7 @@
                                       <ul class="sub-menu">
                                           <!-- Security Sub-Menu -->
                                           <li>
-                                              <a class="menu-item head-menu" href="">Installation </a>
+                                              <a class="menu-item <!-- head-menu -->" href="">Installation </a>
                                               <!--   <ul class="sub-menu">
                                                   <li><a class="menu-item" href="surveillance-cameras.php">Surveillance
                                                           Camera</a></li>
@@ -64,13 +64,13 @@
 
                                           <!-- Fire & Life Safety Sub-Menu -->
                                           <li>
-                                              <a class="menu-item head-menu" href="#">Repair </a>
+                                              <a class="menu-item " href="#">Repair </a>
 
                                           </li>
 
                                           <!-- Network Services Sub-Menu -->
                                           <li>
-                                              <a class="menu-item head-menu" href="#">Maintenance</a>
+                                              <a class="menu-item " href="#">Maintenance</a>
 
                                           </li>
 
