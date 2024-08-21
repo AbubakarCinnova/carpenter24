@@ -48,14 +48,18 @@
                                   </li> -->
                                   <li><a class="menu-item" href="about.php">About</a></li>
 
-                                  <li> <a class="menu-item " href="heating.php">Heating </a></li>
+                                  <li> <a class="menu-item " href="heating.php">Heating </a>
+                                      <ul class="sub-menu">
+                                          <li> <a class="menu-item" href="">Air Conditioning and Services </a></li>
+                                      </ul>
+
+                                  </li>
 
                                   <li> <a class="menu-item" href="">Cooling </a></li>
 
 
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul class="sub-menu">
-                                          <!-- Security Sub-Menu -->
                                           <li>
                                               <a class="menu-item" href="">Installation </a>
                                               <!--   <ul class="sub-menu">
