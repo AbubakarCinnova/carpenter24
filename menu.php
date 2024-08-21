@@ -51,7 +51,7 @@
                                       <ul class="sub-menu">
                                           <!-- Security Sub-Menu -->
                                           <li>
-                                              <a class="menu-item head-menu" href="heating.php">Heating </a>
+                                              <a class="menu-item head-menu" href="">Installation </a>
                                               <!--   <ul class="sub-menu">
                                                   <li><a class="menu-item" href="surveillance-cameras.php">Surveillance
                                                           Camera</a></li>
@@ -65,30 +65,13 @@
                                           <!-- Fire & Life Safety Sub-Menu -->
                                           <li>
                                               <a class="menu-item head-menu" href="#">Repair </a>
-                                              <!--  <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="#">Fire Alarms</a></li>
-                                                  <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
-                                                  <li><a class="menu-item" href="#">Nurse Call</a></li>
-                                                  <li><a class="menu-item" href="#">Wander Management Systems</a></li>
-                                                  <li><a class="menu-item" href="#">Alarm Monitoring</a></li>
-                                                  <li><a class="menu-item" href="fire-alarm-testing.php">Fire Alarm
-                                                          Inspections/Testing</a>
-                                                  </li>
-                                              </ul> -->
+
                                           </li>
 
                                           <!-- Network Services Sub-Menu -->
                                           <li>
                                               <a class="menu-item head-menu" href="#">Maintenance</a>
-                                              <!--  <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="technology-deployments.php">Technology
-                                                          Deployments</a></li>
-                                                  <li><a class="menu-item" href="cable-infastructure.php">Cabling
-                                                          Infrastructure</a></li>
-                                                  <li><a class="menu-item" href="rack-stack.php">Rack and Stack</a></li>
-                                                  <li><a class="menu-item" href="smart-fleet.php">Smart Fleet
-                                                          Systems</a></li>
-                                              </ul> -->
+
                                           </li>
 
 
@@ -97,6 +80,7 @@
                                   </li>
 
 
+                                  <li> <a class="menu-item head-menu" href="heating.php">Heating </a></li>
                                   <li><a class="menu-item" href="about.php">About Us</a></li>
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>
                               </ul>
