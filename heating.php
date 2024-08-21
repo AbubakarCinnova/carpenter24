@@ -25,12 +25,12 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/Design-build.webp" class="jarallax-img" alt="">
+                <img src="images/background/" class="jarallax-img" alt="">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
-                            <h1>Duct Cleaning</h1>
+                            <h1>Heating</h1>
                             <ul class="crumb">
                                 <li><a href="index.php">Home</a></li>
                                 <li class="active">Design Build</li>
@@ -71,7 +71,7 @@
 
                         <div class="col-lg-12">
                             <div class="row g-4">
-                                <div class="col-lg-6">
+                                <div class="col-lg-12">
 
                                     <h2>Furnace Repair in Ogden, Utah</h2>
                                     <p>If your furnace has let you down again, don’t wait—reach out to Carpenter Heating
@@ -136,10 +136,10 @@
 
                                 </div>
 
-                                <div class="col-lg-6">
+                                <!--  <div class="col-lg-6">
                                     <img src="images/misc/services-2.webp" class="img-fluid rounded-20px mb-4" alt="">
-                                    <!-- <img src="images/misc/services-3.webp" class="img-fluid rounded-20px" alt=""> -->
-                                </div>
+                                    <img src="images/misc/services-3.webp" class="img-fluid rounded-20px" alt="">
+                                </div> -->
                             </div>
 
                             <div class="spacer-double"></div>
