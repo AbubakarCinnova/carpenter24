@@ -44,8 +44,14 @@
                           </div>
                           <div class="de-flex-col header-col-mid">
                               <ul id="mainmenu">
-                                  <li><a class="menu-item" href="<?php echo $base_url ?>">Home</a>
-                                  </li>
+                                  <!--  <li><a class="menu-item" href="<?php echo $base_url ?>">Home</a>
+                                  </li> -->
+                                  <li><a class="menu-item" href="about.php">About</a></li>
+
+                                  <li> <a class="menu-item " href="heating.php">Heating </a></li>
+
+                                  <li> <a class="menu-item" href="">Cooling </a></li>
+
 
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul class="sub-menu">
@@ -79,9 +85,13 @@
                                       </ul>
                                   </li>
 
+                                  <li> <a class="menu-item" href="">Commercial </a></li>
 
-                                  <li> <a class="menu-item head-menu" href="heating.php">Heating </a></li>
-                                  <li><a class="menu-item" href="about.php">About Us</a></li>
+                                  <li> <a class="menu-item" href="">Financing </a></li>
+
+                                  <li> <a class="menu-item" href="">Specials </a></li>
+
+
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>
                               </ul>
                           </div>
