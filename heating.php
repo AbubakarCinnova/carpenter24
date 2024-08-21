@@ -1,8 +1,9 @@
 <?php include('header.php'); ?>
 
-<title>Carpenter Heating and Cooling | Duct Cleaning </title>
+<title>Furnace Repair and Installation Services - Carpenter Heating and Air Conditioning in Ogden, Utah </title>
 
-
+<meta name="description"
+    content="We offer expert furnace repair, replacement, and installation services in Ogden, Utah. Carpenter Heating and Air Conditioning provides 24/7 emergency furnace repair. Call us today!">
 
 </head>
 
@@ -72,13 +73,63 @@
                             <div class="row g-4">
                                 <div class="col-lg-6">
 
-                                    <h2>Lorem, ipsum dolor sit amet consectetur </h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam neque ex minima
-                                        sapiente, explicabo dolores est dolorem reprehenderit animi corporis doloremque
-                                        id soluta doloribus exercitationem sint repellendus qui eligendi quos?</p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam neque ex minima
-                                        sapiente, explicabo dolores est dolorem reprehenderit animi corporis doloremque
-                                        id soluta doloribus exercitationem sint repellendus qui eligendi quos?</p>
+                                    <h2>Furnace Repair in Ogden, Utah</h2>
+                                    <p>If your furnace has let you down again, don’t wait—reach out to Carpenter Heating
+                                        and Air Conditioning for expert furnace repair services in Ogden, Utah. We’ll be
+                                        there swiftly to get your furnace back up and running so you can focus on what
+                                        matters most. Our experienced technicians are skilled in repairing all furnaces,
+                                        including gas, electric, dual fuel, and heat pump systems. We service and repair
+                                        all brands and models and are available 24/7 for emergency furnace repair.</p>
+
+                                    <h2>Furnace Replacement and Installation in Ogden, Utah</h2>
+                                    <p>At Carpenter Heating and Air Conditioning, we offer the perfect opportunity to
+                                        lower your energy bills with the installation of a high-efficiency Lennox
+                                        furnace or heat pump. Our dedicated team will collaborate with you to design a
+                                        customized, energy-efficient heating system that meets your family’s comfort
+                                        needs and budget.</p>
+
+                                    <p><a href="#view-furnaces">View Our Furnaces</a></p>
+
+                                    <h2>Furnace Maintenance in Ogden, Utah</h2>
+                                    <p>Scheduling regular furnace maintenance with Carpenter Heating and Air
+                                        Conditioning before winter sets in can lead to significant savings. Our expert
+                                        team ensures your heating system operates at peak efficiency, helping you reduce
+                                        your monthly energy bills and avoid costly repairs down the road.</p>
+
+                                    <p><a href="#maintenance-plans">Learn More About Our Maintenance Plans</a></p>
+
+                                    <h2>Carpenter Heating and Air Conditioning Heating Services in Ogden, Utah:</h2>
+                                    <ul>
+                                        <li>High-Efficiency Furnaces</li>
+                                        <li>Affordable Pricing</li>
+                                        <li>High-Efficiency Heat Pumps</li>
+                                        <li>Ductwork Repairs and Replacement</li>
+                                        <li>Central Air Repair</li>
+                                        <li>Indoor Air Quality Installation</li>
+                                        <li>Air Purification Systems</li>
+                                        <li>Emergency Furnace Services</li>
+                                        <li>Boilers</li>
+                                        <li>Gas Furnace Repair</li>
+                                        <li>Programmable Thermostats</li>
+                                        <li>Whole House Humidifiers</li>
+                                        <li>Smart WiFi Thermostats</li>
+                                        <li>HVAC</li>
+                                        <li>Ductless Mini Split</li>
+                                        <li>Lennox Dealer</li>
+                                        <li>New Furnace Installation</li>
+                                        <li>Furnace Replacement</li>
+                                        <li>Friendly Technicians</li>
+                                        <li>Heating and Furnace Maintenance</li>
+                                        <li>Furnace Repair</li>
+                                        <li>Commercial HVAC</li>
+                                        <li>Dual Fuel Systems</li>
+                                        <li>Heating System Upgrades</li>
+                                    </ul>
+
+                                    <p>Experience the Carpenter Difference—<a href="#contact-us">Contact Us Today</a> to
+                                        Discover How We Build Lasting Customer Relationships on a Foundation of Service.
+                                    </p>
+
 
 
 
@@ -92,7 +143,7 @@
                             </div>
 
                             <div class="spacer-double"></div>
-
+                            <!-- 
                             <div class="row g-4">
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".0s">
                                     <div>
@@ -167,23 +218,11 @@
                                     </div>
                                 </div>
 
-                            </div>
+                            </div> -->
 
                             <div class="spacer-double"></div>
 
-                            <!-- slider -->
-                            <!--     <div class="row g-4">
-                                <div class="col-md-12 wow fadeInUp">
-                                    <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                                        <img src="images/logo/1.webp" class="img-fluid px-4" alt="">
-                                        <img src="images/logo/2.webp" class="img-fluid px-4" alt="">
-                                        <img src="images/logo/3.webp" class="img-fluid px-4" alt="">
-                                        <img src="images/logo/4.webp" class="img-fluid px-4" alt="">
-                                        <img src="images/logo/5.webp" class="img-fluid px-4" alt="">
-                                        <img src="images/logo/6.webp" class="img-fluid px-4" alt="">
-                                    </div>
-                                </div>
-                            </div> -->
+
 
                         </div>
                     </div>
