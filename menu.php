@@ -50,15 +50,20 @@
 
                                   <li> <a class="menu-item " href="heating.php">Heating </a>
                                       <ul class="sub-menu">
-                                          <li> <a class="menu-item" href="air-conditioners.php">Air Conditioning and
-                                                  Services </a></li>
+
                                           <li> <a class="menu-item" href="furnaces.php">Furnaces
                                               </a></li>
                                       </ul>
 
                                   </li>
 
-                                  <li> <a class="menu-item" href="cooling.php">Cooling </a></li>
+                                  <li> <a class="menu-item" href="cooling.php">Cooling </a>
+                                      <ul class="sub-menu">
+                                          <li> <a class="menu-item" href="air-conditioners.php">Air Conditioning and
+                                                  Services </a></li>
+                                          <a class="menu-item" href="mini-splits.php">Mini Split </a>
+                                      </ul>
+                                  </li>
 
 
                                   <li><a class="menu-item" href="#">Services</a>
