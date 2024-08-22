@@ -70,15 +70,11 @@
 
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul class="sub-menu">
-                                          <li><a class="menu-item" href="">Installation </a></li>
-                                          <!-- Fire & Life Safety Sub-Menu -->
-                                          <li><a class="menu-item " href="#">Repair </a> </li>
-                                          <!-- Network Services Sub-Menu -->
-                                          <li> <a class="menu-item " href="maintenance.php">Maintenance</a> </li>
+                                          <li> <a class="menu-item " href="maintenance.php">Maintenance Plan</a> </li>
 
                                           <li> <a class="menu-item" href="air-quality.php">Air Quality </a></li>
 
-                                          <li> <a class="menu-item" href="">Commercial </a></li>
+                                          <li> <a class="menu-item" href="">Commercial HVAC </a></li>
 
                                           <li> <a class="menu-item" href="air-purifier.php">Air Purifier </a></li>
 
