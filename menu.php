@@ -85,11 +85,11 @@
                                           </li>
 
 
+                                          <li> <a class="menu-item" href="">Commercial </a></li>
 
                                       </ul>
                                   </li>
 
-                                  <li> <a class="menu-item" href="">Commercial </a></li>
 
                                   <li> <a class="menu-item" href="">Financing </a></li>
 
