@@ -76,9 +76,12 @@
                                           <!-- Network Services Sub-Menu -->
                                           <li> <a class="menu-item " href="maintenance.php">Maintenance</a> </li>
 
+                                          <li> <a class="menu-item" href="air-quality.php">Air Quality </a></li>
+
                                           <li> <a class="menu-item" href="">Commercial </a></li>
 
                                           <li> <a class="menu-item" href="air-purifier.php">Air Purifier </a></li>
+
 
                                       </ul>
                                   </li>
