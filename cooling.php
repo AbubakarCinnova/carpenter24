@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-
+<title>Carpenter Heating and Air Conditioning | Cooling</title>
 
 <meta name="description"
     content="Stay cool with Carpenter Heating and Air Conditioning in Ogden, Utah. Offering expert air conditioner repair, maintenance, and high-efficiency systems. Contact us for service and explore our range of cooling solutions.">
