@@ -51,6 +51,7 @@
                                   <li> <a class="menu-item " href="heating.php">Heating </a>
                                       <ul class="sub-menu">
                                           <li> <a class="menu-item" href="furnaces.php">Furnaces</a></li>
+                                          <li> <a class="menu-item" href="heat-pumps.php">Heat Pumps </a></li>
                                       </ul>
                                   </li>
 
