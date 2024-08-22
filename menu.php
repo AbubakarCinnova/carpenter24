@@ -61,7 +61,7 @@
                                       <ul class="sub-menu">
                                           <li> <a class="menu-item" href="air-conditioners.php">Air Conditioning and
                                                   Services </a></li>
-                                          <a class="menu-item" href="mini-splits.php">Mini Split </a>
+                                          <li><a class="menu-item" href="mini-splits.php">Mini Split </a></li>
                                       </ul>
                                   </li>
 
