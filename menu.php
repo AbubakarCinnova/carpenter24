@@ -52,6 +52,8 @@
                                       <ul class="sub-menu">
                                           <li> <a class="menu-item" href="air-conditioners.php">Air Conditioning and
                                                   Services </a></li>
+                                          <li> <a class="menu-item" href="furnaces.php">Furnaces
+                                              </a></li>
                                       </ul>
 
                                   </li>
