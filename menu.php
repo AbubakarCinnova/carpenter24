@@ -50,12 +50,11 @@
 
                                   <li> <a class="menu-item " href="heating.php">Heating </a>
                                       <ul class="sub-menu">
-
-                                          <li> <a class="menu-item" href="furnaces.php">Furnaces
-                                              </a></li>
+                                          <li> <a class="menu-item" href="furnaces.php">Furnaces</a></li>
                                       </ul>
-
                                   </li>
+
+
 
                                   <li> <a class="menu-item" href="cooling.php">Cooling </a>
                                       <ul class="sub-menu">
@@ -68,38 +67,23 @@
 
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul class="sub-menu">
-                                          <li>
-                                              <a class="menu-item" href="">Installation </a>
-                                              <!--   <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="surveillance-cameras.php">Surveillance
-                                                          Camera</a></li>
-                                                  <li><a class="menu-item" href="access-control.php">Access Control</a>
-                                                  </li>
-                                                  <li><a class="menu-item" href="video-intercom.php">Video Intercom</a>
-                                                  </li>
-                                              </ul> -->
-                                          </li>
-
+                                          <li><a class="menu-item" href="">Installation </a></li>
                                           <!-- Fire & Life Safety Sub-Menu -->
-                                          <li>
-                                              <a class="menu-item " href="#">Repair </a>
-
-                                          </li>
-
+                                          <li><a class="menu-item " href="#">Repair </a> </li>
                                           <!-- Network Services Sub-Menu -->
-                                          <li>
-                                              <a class="menu-item " href="maintenance.php">Maintenance</a>
-
-                                          </li>
-
+                                          <li> <a class="menu-item " href="maintenance.php">Maintenance</a> </li>
 
                                           <li> <a class="menu-item" href="">Commercial </a></li>
+
+                                          <li> <a class="menu-item" href="air-purifier.php">Air Purifier </a></li>
 
                                       </ul>
                                   </li>
 
 
+
                                   <li> <a class="menu-item" href="">Financing </a></li>
+
 
                                   <li> <a class="menu-item" href="">Specials </a></li>
 
