@@ -2,6 +2,9 @@
 
 <title>Carpenter Heating and Cooling | About Us</title>
 
+<meta name="description"
+    content=" Discover Carpenter Heating and Air Conditioning's 65-year legacy in Ogden. Under new ownership, we deliver lasting comfort with a focus on personalized service." />
+
 </head>
 
 <body>
@@ -54,16 +57,19 @@
                     <div class="row gx-5 align-items-center">
                         <div class="col-lg-6">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
-                            <h2 class="wow fadeInUp" data-wow-delay=".2s">History of Our Company</h2>
-                            <p>Welcome to CoolAir, your trusted partner for all your HVAC needs. With years of industry
-                                experience and a commitment to excellence, we specialize in providing top-quality
-                                heating, ventilation, and air conditioning services tailored to your unique
-                                requirements. From installation and repair to maintenance and upgrades, our skilled
-                                technicians are dedicated to delivering reliable solutions that ensure your comfort and
-                                satisfaction. Sint excepteur laborum id nisi ullamco ut aliqua ut voluptate incididunt
-                                ut consequat nostrud incididunt sit ex dolor excepteur consequat non in exercitation
-                                laboris amet magna consequat irure esse elit ut eiusmod aliqua est non laboris in
-                                commodo mollit.</p>
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Welcome to Carpenter Heating and Air
+                                Conditioning: Your Locally-Owned Comfort Partner Since 1960</h2>
+                            <p>Serving the Ogden community for over six decades, Carpenter Heating and Air Conditioning
+                                is your trusted, locally-owned partner in comfort. Now under new ownership, we are
+                                revitalizing our commitment to exceptional service and personal relationships with our
+                                customers, while staying true to the values that have defined us for over sixty years.
+                            </p>
+                            <p>We’re not just a business—we’re your neighbors. We live here, we play here, and we’re
+                                deeply invested in the well-being of our community. Our family-owned heritage is more
+                                than just a tradition—it’s the foundation of our business philosophy, driving us to
+                                provide the highest quality HVAC solutions with a personal touch.
+
+                            </p>
                         </div>
 
                         <div class="col-lg-6">
@@ -98,238 +104,39 @@
                 </div>
             </section>
 
-            <section class="no-top">
+            <section>
                 <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
+                    <div class="row gb-5">
+                        <div class="col-12">
+                            <h2>Our Family-Owned Commitment</h2>
+                            <p>With the fresh perspective brought by our new ownership, we are enhancing our services
+                                and deepening our dedication to the local community. Unlike many corporate competitors
+                                who prioritize short-term gains, we are focused on long-term relationships and
+                                consistent quality. As a family-owned and operated business, we understand the
+                                importance of treating every home in Ogden like our own, ensuring personalized care and
+                                lasting comfort. We’re more committed than ever to providing high-quality HVAC solutions
+                                designed to last, ensuring your comfort and satisfaction.</p>
 
-                            <div class="p-5 bg-color text-white rounded-20px">
-                                <div class="row">
-                                    <div class="col-lg-6 offset-lg-3 text-center">
-                                        <div class="bg-color-2 text-light subtitle wow fadeInUp mb-3">Behind the Scene
-                                        </div>
-                                        <h2 class="wow fadeInUp" data-wow-delay=".2s">Our Team</h2>
-                                        <p class="lead">Qui culpa qui consequat officia cillum quis irure aliquip ut
-                                            dolore sit eu culpa ut irure nisi occaecat dolore adipisicing.</p>
-                                        <div class="spacer-single"></div>
-                                    </div>
-                                </div>
-                                <div class="row g-4">
-                                    <div class="col-lg-3">
-                                        <img src="images/team/1.webp" class="img-fluid rounded-10px" alt="">
-                                        <div class="p-3 text-center
-                                        ">
-                                            <h4 class="mb-0">Jeffery Mussman</h4>
-                                            <p class="mb-2">Founder &amp; CEO</p>
-                                            <div class="social-icons">
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-facebook-f"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-x-twitter"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <h2>Why Choose Carpenter?</h2>
+                            <p>Choosing Carpenter Heating and Air Conditioning means partnering with a team that values
+                                relationships over revenue. Our new ownership has reinvigorated our approach, bringing
+                                renewed energy and innovation to every project. From the first consultation to the final
+                                installation, our handpicked professionals ensure your needs are met with care and
+                                expertise, making your experience seamless and stress-free. Our renewed focus on
+                                customer service means you can expect not only top-tier HVAC solutions but also
+                                attentive, responsive care at every step.</p>
 
-                                    <div class="col-lg-3">
-                                        <img src="images/team/2.webp" class="img-fluid rounded-10px" alt="">
-                                        <div class="p-3 text-center
-                                        ">
-                                            <h4 class="mb-0">Jeffery Mussman</h4>
-                                            <p class="mb-2">Founder &amp; CEO</p>
-                                            <div class="social-icons">
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-facebook-f"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-x-twitter"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <h2>What Sets Us Apart</h2>
+                            <p>What truly sets Carpenter Heating and Air Conditioning apart is our unwavering commitment
+                                to long-term client satisfaction, now stronger than ever under new ownership. We
+                                understand that your home’s comfort is personal, and we treat it as such. Our family’s
+                                name is on the line with every job, and that drives us to deliver cutting-edge
+                                solutions, exceptional support, and a system that performs at its best—every time.</p>
 
-                                    <div class="col-lg-3">
-                                        <img src="images/team/3.webp" class="img-fluid rounded-10px" alt="">
-                                        <div class="p-3 text-center
-                                        ">
-                                            <h4 class="mb-0">Jeffery Mussman</h4>
-                                            <p class="mb-2">Founder &amp; CEO</p>
-                                            <div class="social-icons">
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-facebook-f"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-x-twitter"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <h2>Ready to Experience the Carpenter Difference?</h2>
+                            <p><a href="contact.php">Contact us today</a> to discover how we’ve been building lasting
+                                customer relationships on a foundation of service for over 65 years.</p>
 
-                                    <div class="col-lg-3">
-                                        <img src="images/team/4.webp" class="img-fluid rounded-10px" alt="">
-                                        <div class="p-3 text-center
-                                        ">
-                                            <h4 class="mb-0">Jeffery Mussman</h4>
-                                            <p class="mb-2">Founder &amp; CEO</p>
-                                            <div class="social-icons">
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-facebook-f"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-x-twitter"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="no-top">
-                <div class="container">
-                    <div class="row g-4 align-items-center">
-                        <div class="col-lg-6">
-                            <div class="mb-2 text-center">
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".0s">
-                                    <img src="images/logo/1.webp" class="img-fluid">
-                                </div>
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".2s">
-                                    <img src="images/logo/2.webp" class="img-fluid">
-                                </div>
-
-                                <div class="mb-2 sm-hide"></div>
-
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".4s">
-                                    <img src="images/logo/3.webp" class="img-fluid">
-                                </div>
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".6s">
-                                    <img src="images/logo/4.webp" class="img-fluid">
-                                </div>
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".8s">
-                                    <img src="images/logo/5.webp" class="img-fluid">
-                                </div>
-
-                                <div class="mb-2 sm-hide"></div>
-
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay="1s">
-                                    <img src="images/logo/6.webp" class="img-fluid">
-                                </div>
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay="1.2s">
-                                    <img src="images/logo/1.webp" class="img-fluid">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-5">
-                            <div class="subtitle wow fadeInUp mb-3">Services Process</div>
-                            <h2>The world brands we working with</h2>
-                            <div class="spacer-10"></div>
-                            <p>Velit veniam dolor veniam ea sunt consequat cupidatat dolore commodo mollit anim dolore
-                                ut velit aliqua anim amet enim aute culpa officia fugiat proident cillum pariatur
-                                eiusmod adipisicing enim non officia.</p>
-                            <a class="btn-main" href="#">Discover Plugins</a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="no-top">
-                <div class="container">
-                    <div class="col-lg-12">
-                        <div class="p-5 rounded-20px bg-color-2 text-light">
-                            <div class="row">
-                                <div class="col-lg-6 offset-lg-3 text-center">
-                                    <div class="subtitle bg-color text-white wow fadeInUp mb-3">Top 6 Reasons</div>
-                                    <h2 class="wow fadeInUp" data-wow-delay=".2s">Why Choose Us</h2>
-                                    <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure
-                                        aliquip ut dolore sit eu culpa ut irure nisi occaecat dolore adipisicing.</p>
-                                    <div class="spacer-single"></div>
-                                </div>
-                            </div>
-                            <div class="row g-4">
-                                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".0s">
-                                    <div>
-                                        <i
-                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                                        <div class="pl-80">
-                                            <h4>Expert Technicians</h4>
-                                            <p class="mb-0">Expert technicians delivering precise, high-performance
-                                                solutions.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                                    <div>
-                                        <i
-                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                                        <div class="pl-80">
-                                            <h4> Transparent Pricing</h4>
-                                            <p class="mb-0">Clear, upfront costs with no hidden fees, for
-                                                straightforward and reliable budgeting.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                                    <div>
-                                        <i
-                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                                        <div class="pl-80">
-                                            <h4>Emergency Services</h4>
-                                            <p class="mb-0">Rapid, expert response to minimize downtime and restore
-                                                operations.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                                    <div>
-                                        <i
-                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                                        <div class="pl-80">
-                                            <h4>Project Management</h4>
-                                            <p class="mb-0">Precision project management for flawless execution and
-                                                delivery.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
-                                    <div>
-                                        <i
-                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                                        <div class="pl-80">
-                                            <h4>Top-Quality Products</h4>
-                                            <p class="mb-0">Premium components for exceptional durability and
-                                                performance.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1s">
-                                    <div>
-                                        <i
-                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                                        <div class="pl-80">
-                                            <h4>Service First</h4>
-                                            <p class="mb-0">Fully Committed to excellence with cutting-edge solutions
-                                                and exceptional support.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
