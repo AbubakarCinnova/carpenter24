@@ -130,7 +130,7 @@
                                     </p>
                                     <br>
 
-                                    <p><a href="/contact.php" target="_self" class="btn-main bg-color-2">Request
+                                    <p><a href="contact.php" target="_self" class="btn-main bg-color-2">Request
                                             Estimate</a></p>
 
                                     <p>Your best defense against poor indoor air quality, is the the PureAir system
@@ -253,7 +253,7 @@
                                                 Brochure</a></li>
                                     </ul><br><br>
 
-                                    <a href="/contact.php" target="_self" class="btn-main bg-color-2">Request Quote
+                                    <a href="contact.php" target="_self" class="btn-main bg-color-2">Request Quote
                                     </a><br>
                                     <br>
 
