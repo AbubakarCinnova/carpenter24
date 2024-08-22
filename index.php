@@ -1,8 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Carpenter Heating and Cooling</title>
-
-
+<title>Furnace Repair and Installation Services - Carpenter Heating and Air Conditioning in Ogden, Utah </title>
 
 </head>
 

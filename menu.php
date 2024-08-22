@@ -50,7 +50,8 @@
 
                                   <li> <a class="menu-item " href="heating.php">Heating </a>
                                       <ul class="sub-menu">
-                                          <li> <a class="menu-item" href="">Air Conditioning and Services </a></li>
+                                          <li> <a class="menu-item" href="air-conditioners.php">Air Conditioning and
+                                                  Services </a></li>
                                       </ul>
 
                                   </li>
