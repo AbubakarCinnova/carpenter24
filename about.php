@@ -46,10 +46,10 @@
             <!-- section close -->
 
             <div class="bg-color relative z-index-1000 mt-40 mb40">
-                <div class="border-white-6 text-center bg-color text-white w-84px h-80px p-3 circle absolute abs-center sm-hide"
-                    alt="">
-                    <i class="icofont-users-alt-3 fs-36"></i>
-                </div>
+                <a href="contact.php">
+                    <img src="images/svg/phone-calling-svgrepo-com.svg"
+                        class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="">
+                </a>
             </div>
 
             <section>
