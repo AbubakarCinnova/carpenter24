@@ -52,6 +52,8 @@
                                       <ul class="sub-menu">
                                           <li> <a class="menu-item" href="furnaces.php">Furnaces</a></li>
                                           <li> <a class="menu-item" href="heat-pumps.php">Heat Pumps </a></li>
+                                          <li> <a class="menu-item" href="smart-thermostats.php">Smart Thermostats </a>
+                                          </li>
                                       </ul>
                                   </li>
 
