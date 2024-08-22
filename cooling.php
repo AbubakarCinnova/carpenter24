@@ -60,14 +60,14 @@
                                 <div class="col-lg-12">
 
 
-                                    <h1>Air Conditioner Repair Services in Ogden, Utah</h1>
+                                    <h2>Air Conditioner Repair Services in Ogden, Utah</h2>
                                     <p>Are you struggling with an air conditioning system that won't cool? There's no
                                         need to sweat it out! At Carpenter Heating and Air Conditioning, our friendly
                                         and skilled master technicians are ready to diagnose and swiftly resolve any
                                         issues with your air conditioning system, ensuring you're back to cool comfort
                                         in no time!</p>
 
-                                    <p><a href="contact.php" class="button">Request Service</a></p>
+                                    <p><a href="contact.php" class="btn-main bg-color-2">Request Service</a></p>
 
                                     <h2>Air Conditioner Maintenance</h2>
                                     <p>Don't let a breakdown ruin your summer vibe! With Carpenter Heating and Air
@@ -115,7 +115,7 @@
                                         <li>Whole House Air Purifiers</li>
                                     </ul>
 
-                                    <p><a href="specials.php" class="button">See Our Specials</a></p>
+                                    <p><a href="specials.php" class="btn-main bg-color-2">See Our Specials</a></p>
 
                                     <p>Experience the Carpenter Difference—<a href="contact.php">Contact Us Today</a> to
                                         Discover How We Build Lasting Customer Relationships on a Foundation of Service.
