@@ -62,7 +62,7 @@
                                 <div class="col-lg-12">
 
 
-                                    <h1>Smart Thermostats: Precision Temperature Control for Comfort and Savings</h1>
+                                    <h2>Smart Thermostats: Precision Temperature Control for Comfort and Savings</h2>
                                     <p>Smart thermostats are designed to provide precise temperature control for homes
                                         and buildings, enhanced with advanced features that promote energy efficiency,
                                         convenience, and comfort—all while helping you save money in Ogden, Utah’s
