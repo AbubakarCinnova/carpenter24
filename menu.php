@@ -84,7 +84,7 @@
 
 
 
-                                  <li> <a class="menu-item" href="">Financing </a></li>
+                                  <li> <a class="menu-item" href="financing.php">Financing </a></li>
 
 
                                   <li> <a class="menu-item" href="">Specials </a></li>
