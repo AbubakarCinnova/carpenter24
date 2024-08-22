@@ -117,6 +117,8 @@
                                         Air Conditioning in Ogden, Utah. We’re here to help you find the perfect
                                         solution for your unique needs.</p>
 
+                                    <br>
+
                                     <!-- Embedded YouTube Video -->
                                     <div>
                                         <iframe width="560" height="315" class="video-responsive"
@@ -125,6 +127,8 @@
                                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                             allowfullscreen></iframe>
                                     </div>
+
+                                    <br>
 
                                     <h2>Experience the Carpenter Difference</h2>
                                     <p>Contact us today to discover how we’ve been building lasting customer
