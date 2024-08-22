@@ -87,3 +87,8 @@ li:hover>.sub-menu {
 h2 {
     font-size: 36px !important;
 }
+
+
+.btn-main {
+    text-decoration: none !important;
+}
