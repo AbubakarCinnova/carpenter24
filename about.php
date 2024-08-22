@@ -54,7 +54,7 @@
 
             <section>
                 <div class="container">
-                    <div class="row gt-5 align-items-center">
+                    <div class="row gx-5 align-items-center">
                         <div class="col-lg-6">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Welcome to Carpenter Heating and Air
@@ -101,11 +101,7 @@
                         </div>
 
                     </div>
-                </div>
-            </section>
 
-            <section>
-                <div class="container">
                     <div class="row gb-5">
                         <div class="col-12">
                             <h2>Our Family-Owned Commitment</h2>
@@ -139,8 +135,11 @@
 
                         </div>
                     </div>
+
                 </div>
             </section>
+
+
 
         </div>
         <!-- content close -->
