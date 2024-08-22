@@ -156,7 +156,7 @@
                                         <li>Hospital inpatient care/general surgery level filtration, whole-home
                                             purification works with your existing heating and cooling system.</li>
                                         <li>5-Year Limited Warranty on covered components.</li>
-                                        <li><a href="/pdf/Lennox_PureAir_System brochure.pdf">View
+                                        <li><a href="pdf/Lennox_PureAir_System brochure.pdf">View
                                                 Brochure</a></li>
                                     </ul><br><br>
 
@@ -190,7 +190,7 @@
                                         </li>
                                         <li>UL listed.</li>
                                         <li>5-Year Limited Warranty on covered components.</li>
-                                        <!--  <li><a href="/pdf/Lennox_Germicidal_Lamps brochure.pdf">View
+                                        <!--  <li><a href="pdf/Lennox_Germicidal_Lamps brochure.pdf">View
             Brochure</a></li> -->
                                     </ul><br><br>
 
@@ -221,7 +221,7 @@
                                             it.</li>
                                         <li>5-Year Limited Warranty on covered components.</li>
                                         <li>Automatic Refilling.</li>
-                                        <li><a href="/pdf/Lennox_WB2-WP2_Humidifiers brochurt.pdf">View
+                                        <li><a href="pdf/Lennox_WB2-WP2_Humidifiers brochurt.pdf">View
                                                 Brochure</a></li>
                                     </ul><br><br>
 
@@ -249,7 +249,7 @@
                                             efficiency upgrades.</li>
                                         <li>All units include a Healthy Climate wall control.</li>
                                         <li>5-Year Limited Warranty on covered components.</li>
-                                        <li><a href="/pdf/Lennox_HRV-ERV_Ventilators brochure.pdf">View
+                                        <li><a href="pdf/Lennox_HRV-ERV_Ventilators brochure.pdf">View
                                                 Brochure</a></li>
                                     </ul><br><br>
 
