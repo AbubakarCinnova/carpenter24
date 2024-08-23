@@ -23,8 +23,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/furnaces-min.webp" class="jarallax-img" alt="furnaces"
-                    style="object-position: 50% 125% !important;">
+                <img src="images/background/furnaces-min.webp" class="jarallax-img furnances-img" alt="furnaces">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">

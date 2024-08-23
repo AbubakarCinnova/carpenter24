@@ -92,3 +92,8 @@ h2 {
 .btn-main {
     text-decoration: none !important;
 }
+
+
+.furnances-img {
+    object-position: 50% 125% !important;
+}
