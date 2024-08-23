@@ -101,3 +101,8 @@ h2 {
 header #mainmenu li li a:hover {
     color: #ffffff !important;
 }
+
+#subheader {
+    padding: 200px 0 200px 0 !important;
+    min-height: 550px;
+}
