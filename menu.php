@@ -11,7 +11,9 @@
                                           399-1127</a></div>
                                   <div class="topbar-widget"><a href="#"><i
                                               class="icofont-envelope"></i>contact@coolair.com</a></div>
-                                  <div class="topbar-widget"><a href="#"><i class="icofont-location-pin"></i>2714 Wall
+                                  <div class="topbar-widget"><a
+                                          href="https://www.google.com/search?q=Carpenter+HVAC+Ogden&gs_ivs=1"
+                                          target="_blank"><i class="icofont-location-pin"></i>2714 Wall
                                           Ave, Ogden, UT 84401</a></div>
                               </div>
 
