@@ -6,8 +6,8 @@
                       <div class="col-lg-12">
                           <div class="d-flex justify-content-between xs-hide">
                               <div class="header-widget d-flex">
-                                  <div class="topbar-widget"><a href="#"><i class="icofont-phone"></i>+929 333
-                                          9296</a></div>
+                                  <div class="topbar-widget"><a href="+18013991127"><i class="icofont-phone"></i>(801)
+                                          399-1127</a></div>
                                   <div class="topbar-widget"><a href="#"><i
                                               class="icofont-envelope"></i>contact@coolair.com</a></div>
                                   <div class="topbar-widget"><a href="#"><i class="icofont-location-pin"></i>2714 Wall
