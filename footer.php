@@ -51,7 +51,7 @@
                <div class="col-lg-4 col-sm-6 order-lg-2 order-sm-1">
                    <div class="widget">
                        <h5 class="id-color-2">24 Hours &amp; Emergencies</h5>
-                       <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><a href="+18013991127"><i
+                       <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><a href="tel:+18013991127"><i
                                    class="icofont-phone-circle id-color-2"></i> (801) 399-1127</a></h2>
 
                        <div class="spacer-20"></div>
