@@ -29,7 +29,8 @@
                         <div class="swiper-wrapper">
                             <!-- Slides -->
                             <div class="swiper-slide">
-                                <div class="swiper-inner" data-bgimage="url(images/slider/slider1.png)">
+                                <div class="swiper-inner"
+                                    data-bgimage="url(images/slider/Ogden-Utah2000x1333-min (2).webp">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
