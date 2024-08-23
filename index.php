@@ -862,7 +862,7 @@
                 </div>
             </section>
 
-            <section class="no-top">
+            <!--  <section class="no-top">
                 <div class="container">
                     <div class="row g-4">
                         <div class="col-lg-12 text-center wow fadeInUp">
@@ -882,7 +882,7 @@
                     </div>
                 </div>
             </section>
-
+ -->
             <section class="bg-color text-light pt40 pb40">
                 <div class="container">
                     <div class="row g-4 align-items-center">
