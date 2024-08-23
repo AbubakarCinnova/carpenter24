@@ -24,7 +24,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/" class="jarallax-img" alt="">
+                <img src="images/background/cooling.webp" class="jarallax-img inner-page-banner" alt="cooling">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
