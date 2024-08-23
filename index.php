@@ -851,7 +851,7 @@
                                             <div class="spacer-double"></div>
                                             <div class="subtitle s2 mb-2">24 Hours &amp; Emergencies</div>
                                             <h2 class="phone mb0 wow fadeInUp" data-wow-delay=".2s"><i
-                                                    class="icofont-phone-circle"></i> +929 333 9296</h2>
+                                                    class="icofont-phone-circle"></i> (801) 399-1127</h2>
                                             <div class="spacer-double"></div>
                                         </div>
                                     </div>
