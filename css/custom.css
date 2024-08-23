@@ -97,3 +97,7 @@ h2 {
 .furnances-img {
     object-position: 50% 100% !important;
 }
+
+header #mainmenu li li a:hover {
+    color: #ffffff !important;
+}
