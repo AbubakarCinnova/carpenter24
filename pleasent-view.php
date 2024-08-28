@@ -164,9 +164,14 @@
 
                                     <h2>Ready to Experience the Carpenter Difference?</h2>
                                     <p>
-                                        Contact us today to discover how we’ve been building lasting customer
+                                        <a href="contact.php">Contact us today</a> to discover how we’ve been building
+                                        lasting customer
                                         relationships on a foundation of service for over 65 years.
                                     </p>
+
+                                    <br>
+                                    <p><a href="contact.php" class="btn-main btn-dark">Contact Us</a></p>
+                                    <br>
 
 
 
