@@ -110,7 +110,7 @@
                                         <li>HVAC Repairs</li>
                                     </ul>
 
-                                    <a href="#" class="btn btn-primary">Request Service</a>
+                                    <p><a href="#" class="btn-main btn-dark">Request Service</a></p>
 
                                     <h2>Experience Unmatched Air Conditioning Services in Ogden</h2>
                                     <p>
