@@ -112,3 +112,7 @@ header #mainmenu li li a:hover {
 h2.slider-title {
     letter-spacing: normal !important;
 }
+
+#subheader h1 {
+    margin: 20px 0px !important;
+}
