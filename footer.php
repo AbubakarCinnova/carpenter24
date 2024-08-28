@@ -31,6 +31,7 @@
                                            <li><a href="pleasent-view.php">Pleasent View</a> </li>
                                            <li><a href="harrisville.php">Harrisville</a> </li>
                                            <li><a href="marriott-slaterville.php">Marriott-Slaterville</a> </li>
+                                           <li><a href="plain-city.php">Plain City</a> </li>
 
 
                                        </ul>
