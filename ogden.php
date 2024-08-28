@@ -109,9 +109,9 @@
                                         <li>New Gas Furnace Installation</li>
                                         <li>HVAC Repairs</li>
                                     </ul>
-
-                                    <p><a href="#" class="btn-main btn-dark">Request Service</a></p>
-
+                                    <br>
+                                    <p><a href="contact.php" class="btn-main btn-dark">Request Service</a></p>
+                                    <br>
                                     <h2>Experience Unmatched Air Conditioning Services in Ogden</h2>
                                     <p>
                                         Stay cool and comfortable even during the hottest Ogden summers with Carpenter
