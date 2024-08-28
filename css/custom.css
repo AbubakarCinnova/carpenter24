@@ -106,3 +106,9 @@ header #mainmenu li li a:hover {
     padding: 220px 0 220px 0 !important;
     min-height: 550px;
 }
+
+
+.swiper-slide-active .slider-title,
+h2.slider-title {
+    letter-spacing: normal !important;
+}
