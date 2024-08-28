@@ -30,6 +30,7 @@
                                            <li><a href="riverdale.php">Riverdale</a> </li>
                                            <li><a href="pleasent-view.php">Pleasent View</a> </li>
                                            <li><a href="harrisville.php">Harrisville</a> </li>
+                                           <li><a href="marriott-slaterville.php">Marriott-Slaterville</a> </li>
 
 
                                        </ul>
