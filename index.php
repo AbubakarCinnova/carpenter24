@@ -266,13 +266,13 @@
                                         alt="">
                                     <img src="images/misc/services-1.webp" class="img-fluid" alt="">
                                 </div>
-                                <div class="padding40 bg-color-3">
+                                <div class="padding40 bg-color text-light">
                                     <h4>Installation</h4>
                                     <p class="no-bottom">Trust us to deliver reliable solutions, exceptional service,
                                         and peace
                                         of mind for all your HVAC needs. </p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-light-trans" href="installation.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="installation.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -285,7 +285,7 @@
                                         alt="">
                                     <img src="images/misc/services-2.webp" class="img-fluid" alt="">
                                 </div>
-                                <div class="padding40 bg-color-2 text-light">
+                                <div class="padding40 bg-color text-light">
                                     <h4>Repair</h4>
                                     <p class="no-bottom">Trust us to deliver reliable solutions, exceptional service,
                                         and peace
