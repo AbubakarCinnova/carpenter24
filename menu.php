@@ -77,7 +77,7 @@
 
                                           <li> <a class="menu-item" href="air-quality.php">Air Quality </a></li>
 
-                                          <li> <a class="menu-item" href="">Commercial HVAC </a></li>
+                                          <li> <a class="menu-item" href="commercial.php">Commercial HVAC </a></li>
 
                                           <li> <a class="menu-item" href="air-purifier.php">Air Purifier </a></li>
 
