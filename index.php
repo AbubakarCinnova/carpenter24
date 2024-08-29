@@ -397,18 +397,15 @@
                 <div class="container">
                     <div class="row  gx-5 align-items-center">
                         <div class="col-lg-6">
-                            <div class="subtitle wow fadeInUp mb-3">Our Specialize</div>
-                            <h2 class="wow fadeInUp" data-wow-delay=".2s">From Chilling Challenges to Heating Solutions
-                            </h2>
-                            <p class="wow fadeInUp">Welcome to CoolAir, your trusted partner for all your HVAC needs.
-                                With years
-                                of industry experience and a commitment to excellence, we specialize in providing
-                                top-quality
-                                heating, ventilation, and air conditioning services tailored to your unique
-                                requirements. From
-                                installation and repair to maintenance and upgrades, our skilled technicians are
-                                dedicated to
-                                delivering reliable solutions that ensure your comfort and satisfaction.</p>
+                            <!--   <div class="subtitle wow fadeInUp mb-3">Our Specialize</div> -->
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering Exceptional HVAC Results in Ogden
+                                and Davis County </h2>
+                            <p class="wow fadeInUp">Carpenter Heating and Air Conditioning has a proven track record in
+                                furnace repair, AC repair, and HVAC installations throughout Ogden and Davis County. Our
+                                commitment to excellence and attention to detail ensure that every service is performed
+                                with the utmost professionalism, providing you and your home with efficient,
+                                high-performance heating and cooling solutions tailored to your specific needs.
+                            </p>
                         </div>
 
                         <div class="col-lg-6">
