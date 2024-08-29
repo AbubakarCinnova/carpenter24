@@ -46,6 +46,7 @@
                                            <li><a href="eden.php">Eden</a> </li>
                                            <li><a href="huntsville.php">Huntsville</a> </li>
                                            <li><a href="kaysville.php">Kaysville</a> </li>
+                                           <li><a href="layton.php">Layton</a> </li>
 
 
                                        </ul>
