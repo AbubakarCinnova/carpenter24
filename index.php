@@ -350,8 +350,7 @@
 
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
                             <div>
-                                <i
-                                    class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Professional HVAC Installation
                                     </h4>
@@ -364,8 +363,7 @@
 
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                             <div>
-                                <i
-                                    class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Top-Quality HVAC Products
                                     </h4>
@@ -378,8 +376,7 @@
 
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1s">
                             <div>
-                                <i
-                                    class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Service First HVAC Approach </h4>
                                     <p class="mb-0">Our "Service First" philosophy puts your needs at the forefront,
