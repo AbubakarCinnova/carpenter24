@@ -388,8 +388,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <div class="spacer-double"></div>
                     </div>
                 </div>
             </section>
