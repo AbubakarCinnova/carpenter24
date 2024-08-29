@@ -81,6 +81,9 @@
 
                                           <li> <a class="menu-item" href="air-purifier.php">Air Purifier </a></li>
 
+                                          <li> <a class="menu-item" href="pool-dehumidfication.php">Pool Dehumidfication
+                                              </a></li>
+
 
                                       </ul>
                                   </li>
