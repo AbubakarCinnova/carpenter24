@@ -35,6 +35,7 @@
                                            <li><a href="syracuse.php">Syracuse</a> </li>
                                            <li><a href="clearfield.php">Clearfield</a> </li>
                                            <li><a href="roy.php">Roy</a> </li>
+                                           <li><a href="hooper.php">Hooper</a> </li>
 
 
                                        </ul>
