@@ -32,6 +32,7 @@
                                            <li><a href="harrisville.php">Harrisville</a> </li>
                                            <li><a href="marriott-slaterville.php">Marriott-Slaterville</a> </li>
                                            <li><a href="plain-city.php">Plain City</a> </li>
+                                           <li><a href="syracuse.php">Syracuse</a> </li>
 
 
                                        </ul>
