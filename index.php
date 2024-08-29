@@ -193,17 +193,22 @@
             <section class="pt50">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-lg-6">
+                        <!--    <div class="col-lg-6">
                             <img src="images/misc/handy-man.webp" class="img-fluid wow scaleIn" alt="">
-                        </div>
-                        <div class="col-lg-5 offset-lg-1">
+                        </div> -->
+                        <div class="col-lg-12 offset-lg-1 text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
-                            <h2 class="wow fadeInUp">Air Conditioning and Heating Specialists</h2>
-                            <p class="wow fadeInUp">Eu cupidatat sit dolore enim consequat veniam adipisicing et quis ut
-                                in
-                                eiusmod consectetur dolore qui aliqua sunt culpa ad qui mollit et irure nisi laborum
-                                commodo
-                                minim commodo occaecat ut sint dolor mollit culpa excepteur magna pariatur.</p>
+                            <!--  <h2 class="wow fadeInUp">Air Conditioning and Heating Specialists</h2> -->
+                            <p class="wow fadeInUp">Welcome to Carpenter Heating and Air Conditioning, where our
+                                family-owned heritage is the cornerstone of our "Service First" philosophy. With over 60
+                                years of experience serving Ogden, Utah, we don’t just offer HVAC solutions—we build
+                                strong, lasting relationships with our clients. Our commitment to excellence drives us
+                                to deliver top-quality furnace repair and AC repair services, personalized to meet the
+                                unique needs of every home. Whether you need an emergency repair, a full system
+                                installation, or routine maintenance, you can trust our expert technicians to keep your
+                                home comfortable year-round. At Carpenter Heating and Air Conditioning, we’re not just
+                                your service provider—we’re your neighbors, deeply invested in the well-being of our
+                                community and your satisfaction.</p>
                             <div class="spacer-10"></div>
                             <a class="btn-main wow fadeInUp" href="about.php">About Company</a>
                         </div>
@@ -211,37 +216,7 @@
 
                     <div class="spacer-double"></div>
 
-                    <div class="row gx-5">
-                        <div class="col-lg-2 col-6">
-                            <img src="images/awards/1.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".0s"
-                                alt="">
-                        </div>
 
-                        <div class="col-lg-2 col-6">
-                            <img src="images/awards/2.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".2s"
-                                alt="">
-                        </div>
-
-                        <div class="col-lg-2 col-6">
-                            <img src="images/awards/3.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".4s"
-                                alt="">
-                        </div>
-
-                        <div class="col-lg-2 col-6">
-                            <img src="images/awards/4.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".6s"
-                                alt="">
-                        </div>
-
-                        <div class="col-lg-2 col-6">
-                            <img src="images/awards/5.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".8s"
-                                alt="">
-                        </div>
-
-                        <div class="col-lg-2 col-6">
-                            <img src="images/awards/6.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay="1s"
-                                alt="">
-                        </div>
-                    </div>
                 </div>
             </section>
 
@@ -252,9 +227,9 @@
                             <div class="col-lg-6 offset-lg-3 text-center">
                                 <div class="subtitle bg-color-3 wow fadeInUp mb-3">Complete Solutions</div>
                                 <h2 class="wow fadeInUp" data-wow-delay=".2s">Our Services</h2>
-                                <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip
+                                <!--  <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip
                                     ut dolore
-                                    sit eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p>
+                                    sit eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p> -->
                             </div>
                         </div>
 
@@ -326,9 +301,9 @@
                         <div class="col-lg-6 offset-lg-3 text-center">
                             <div class="subtitle bg-color-2 text-white wow fadeInUp mb-3">Top 6 Reasons</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Why Choose Us</h2>
-                            <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip ut
+                            <!--   <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip ut
                                 dolore sit
-                                eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p>
+                                eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p> -->
                             <div class="spacer-single"></div>
                         </div>
                     </div>
@@ -337,10 +312,11 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Expert Technicians</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Expert HVAC Technicians
+                                    </h4>
+                                    <p class="mb-0">Our certified experts provide top-tier furnace repair, AC repair,
+                                        and HVAC maintenance services, ensuring your home stays comfortable all year.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -349,10 +325,12 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Flexible Scheduling</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Transparent HVAC Pricing
+                                    </h4>
+                                    <p class="mb-0">We offer clear, upfront pricing on all furnace and AC repairs, with
+                                        no hidden fees, making your HVAC budgeting simple and hassle-free.
+
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -361,10 +339,11 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Transparent Pricing</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Emergency HVAC Repair Services</h4>
+                                    <p class="mb-0">Our rapid response team is available for emergency furnace repair
+                                        and AC repair, ensuring your systems are back up and running quickly.
+
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -374,10 +353,11 @@
                                 <i
                                     class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Quality Parts</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Professional HVAC Installation
+                                    </h4>
+                                    <p class="mb-0">We specialize in the precise and timely installation of HVAC
+                                        systems, from furnaces to air conditioners, to keep your home’s climate
+                                        perfectly controlled.</p>
                                 </div>
                             </div>
                         </div>
@@ -387,10 +367,11 @@
                                 <i
                                     class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Emergency Services</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Top-Quality HVAC Products
+                                    </h4>
+                                    <p class="mb-0">We use only the best technology and components in our furnace and AC
+                                        installations, ensuring long-term reliability and efficiency.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -400,10 +381,10 @@
                                 <i
                                     class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Satisfaction Guarantee</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Service First HVAC Approach </h4>
+                                    <p class="mb-0">Our "Service First" philosophy puts your needs at the forefront,
+                                        with personalized HVAC solutions and unmatched customer support.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -413,76 +394,8 @@
                 </div>
             </section>
 
-            <section class="no-top mt-100">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div
-                                class="padding60 rounded-1 sm-padding40 overflow-hidden position-relative jarallax text-light">
-                                <img src="images/background/9.webp" class="jarallax-img" alt="">
-                                <div class="row align-items-center g-4 gx-5 relative z-index-1000">
-                                    <div class="col-lg-8">
-                                        <div class="subtitle s2 wow fadeInUp mb-3">HVAC Specialist</div>
-                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">We are CoolAir, specialize in
-                                            providing top-notch heating, ventilation, and air conditioning services
-                                            tailored to
-                                            your unique needs.</h2>
-                                        <a class="btn-main" href="contact.php">Schedule Now</a>
-                                    </div>
-                                    <div class="col-lg-4 text-center">
-                                        <img src="images/team/1.webp" class="img-fluid rounded-10px wow scaleIn" alt="">
-                                        <h5 class="mt-3 mb-0">Jeffery Mussman</h5>
-                                        <p class="small mb-2">Founder &amp; CEO</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
-            <section class="no-top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6 offset-lg-3 text-center">
-                            <div class="subtitle wow fadeInUp mb-3">Services Process</div>
-                            <h2 class="wow fadeInUp" data-wow-delay=".2s">How It Works</h2>
-                            <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip ut
-                                dolore sit
-                                eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p>
-                            <div class="spacer-single"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12">
-                        <div class="row g-4 arrow-divider">
-                            <div class="col-lg-3 col-6 wow fadeInRight" data-wow-delay=".2s">
-                                <div class="de-step-s1 text-light">
-                                    <div class="d-number wow fadeInRight" data-wow-delay=".2s">Step 1</div>
-                                    <h4>Consultation</h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-6 wow fadeInRight" data-wow-delay=".6s">
-                                <div class="de-step-s1 text-light">
-                                    <div class="d-number wow fadeInRight" data-wow-delay=".6s">Step 3</div>
-                                    <h4>Agreement</h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-6 wow fadeInRight" data-wow-delay=".8s">
-                                <div class="de-step-s1 text-light">
-                                    <div class="d-number wow fadeInRight" data-wow-delay=".8s">Step 3</div>
-                                    <h4>Execution</h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-6 wow fadeInRight" data-wow-delay="1s">
-                                <div class="de-step-s1 text-light">
-                                    <div class="d-number wow fadeInRight" data-wow-delay="1s">Step 4</div>
-                                    <h4>Quality Check</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+
 
             <section class="no-top">
                 <div class="container">
@@ -534,7 +447,7 @@
                 </div>
             </section>
 
-            <section class="no-top text-center">
+            <!--     <section class="no-top text-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3 text-center">
@@ -751,7 +664,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
             <section class="bg-color-3">
                 <div class="container">
