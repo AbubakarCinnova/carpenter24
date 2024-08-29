@@ -47,6 +47,8 @@
                                            <li><a href="huntsville.php">Huntsville</a> </li>
                                            <li><a href="kaysville.php">Kaysville</a> </li>
                                            <li><a href="layton.php">Layton</a> </li>
+                                           <li><a href="fruit-heights.php">Fruit Heights</a> </li>
+                                           <li><a href="farmington.php">Farmington</a> </li>
 
 
                                        </ul>
