@@ -43,6 +43,7 @@
                                    <div class="col-md-6">
                                        <ul>
                                            <li><a href="liberty.php">Liberty</a> </li>
+                                           <li><a href="eden.php">Eden</a> </li>
 
 
                                        </ul>
