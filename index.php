@@ -196,7 +196,7 @@
                         <!--    <div class="col-lg-6">
                             <img src="images/misc/handy-man.webp" class="img-fluid wow scaleIn" alt="">
                         </div> -->
-                        <div class="col-lg-12 offset-lg-1 text-center">
+                        <div class="col-md-12  text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
                             <!--  <h2 class="wow fadeInUp">Air Conditioning and Heating Specialists</h2> -->
                             <p class="wow fadeInUp">Welcome to Carpenter Heating and Air Conditioning, where our
@@ -394,7 +394,7 @@
                 </div>
             </section>
 
-
+            <div class="spacer-double"></div>
 
 
             <section class="no-top">
