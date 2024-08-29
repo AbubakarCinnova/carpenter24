@@ -262,7 +262,7 @@
                             <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
                                     <img src="images/svg/air-conditioner-svgrepo-com.svg"
-                                        class="w-70px mb20 top-30px start-30px p-2 bg-color-3 rounded-10px absolute"
+                                        class="w-70px mb20 top-30px start-30px p-2 bg-color rounded-10px absolute"
                                         alt="">
                                     <img src="images/misc/services-1.webp" class="img-fluid" alt="">
                                 </div>
@@ -281,7 +281,7 @@
                             <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
                                     <img src="images/svg/wrench-line-svgrepo-com.svg"
-                                        class="w-70px mb20 top-30px start-30px p-2 bg-color-2 rounded-10px absolute"
+                                        class="w-70px mb20 top-30px start-30px p-2 bg-color rounded-10px absolute"
                                         alt="">
                                     <img src="images/misc/services-2.webp" class="img-fluid" alt="">
                                 </div>
