@@ -92,7 +92,8 @@
                        <div class="de-flex">
                            <div class="de-flex-col">
 
-                               All rights reserved. Our detailed, original content is protected by copyright, and any
+                               All rights reserved. Our detailed, original content is protected by copyright, <br> and
+                               any
                                unauthorized use is strictly prohibited.
                            </div>
                            <ul class="menu-simple">
