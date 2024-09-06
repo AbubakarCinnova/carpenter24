@@ -1,15 +1,15 @@
-.logo-main,
-.logo-mobile {
+.logo-main {
     width: 200px;
     /*    filter: invert(10) saturate(0) brightness(3.5); */
     margin: 10px 0px;
-    transition: 0.5s ease-in-out;
+    transition: width 0.5s ease-in-out;
 }
 
-.logo-scroll {
+.logo-scroll,
+.logo-mobile {
     width: 150px;
     margin: 10px 0px;
-    transition: 0.5s ease-in-out;
+    transition: width 0.5s ease-in-out;
 }
 
 /* #mainmenu>li {
