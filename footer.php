@@ -10,13 +10,13 @@
                        tailored to your unique requirements. Our skilled technicians are dedicated to delivering
                        reliable solutions that ensure your comfort and satisfaction.</p>
 
-                   <div class="social-icons mb-sm-30">
+                   <!--  <div class="social-icons mb-sm-30">
                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
                        <a href="#"><i class="fa-brands fa-discord"></i></a>
                        <a href="#"><i class="fa-brands fa-tiktok"></i></a>
                        <a href="#"><i class="fa-brands fa-youtube"></i></a>
-                   </div>
+                   </div> -->
                </div>
                <div class="col-lg-4 col-sm-12 order-lg-1 order-sm-2">
                    <div class="row">
