@@ -1,21 +1,22 @@
+/* Initial logo state */
 .logo-main {
     width: 200px;
-    margin: 10px 0px;
     transition: width 0.5s ease-in-out;
     /* Smooth transition */
 }
 
-/* For scrolling, resize the logo */
-.logo-main.logo-scroll {
+/* Shrink logo when scrolling */
+.logo-scroll {
     width: 150px;
 }
 
-/* For mobile, resize the logo */
+/* Shrink logo on mobile devices */
 @media (max-width: 768px) {
-    .logo-main {
+    #logo-img {
         width: 150px;
     }
 }
+
 
 
 /* #mainmenu>li {

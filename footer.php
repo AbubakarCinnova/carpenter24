@@ -122,13 +122,18 @@
    <script src="recaptcha.js"></script>
 
    <script>
-window.addEventListener('scroll', function() {
-    var logo = document.querySelector('.logo-main');
-    if (window.scrollY > 50) {
-        logo.classList.add('logo-scroll');
-    } else {
-        logo.classList.remove('logo-scroll');
-    }
+jQuery(document).ready(function() {
+    // Check when the page is scrolled
+    jQuery(window).scroll(function() {
+        // Get the current scroll position
+        if (jQuery(this).scrollTop() > 50) {
+            // Add the class to shrink the logo
+            jQuery('#logo-img').addClass('logo-scroll');
+        } else {
+            // Remove the class to reset the logo size
+            jQuery('#logo-img').removeClass('logo-scroll');
+        }
+    });
 });
    </script>
    </body>
