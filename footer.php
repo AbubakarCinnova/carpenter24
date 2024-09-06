@@ -3,11 +3,10 @@
        <div class="container">
            <div class="row gx-5">
                <div class="col-lg-4 col-sm-6">
-                   <img src="images/logo1.png" style="width: 240px;" alt="">
+                   <img src="images/logo1.png" style="width: 180px;" alt="footer-logo">
                    <div class="spacer-20"></div>
-                   <p>We specialize in providing top-quality heating, ventilation, and air conditioning services
-                       tailored to your unique requirements. Our skilled technicians are dedicated to delivering
-                       reliable solutions that ensure your comfort and satisfaction.</p>
+                   <img src="images/lennox_reverse (2).png" style="width: 180px;" alt="lennox-logo">
+
 
                    <!--  <div class="social-icons mb-sm-30">
                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
