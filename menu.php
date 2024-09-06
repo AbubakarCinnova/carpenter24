@@ -38,11 +38,10 @@
                               <!-- logo begin -->
                               <div id="logo">
                                   <a href="<?php echo $base_url ?>">
-                                      <img class="logo-main" src="images/logo1.png" alt="">
-                                      <img class="logo-scroll" src="images/logo1.png" alt="">
-                                      <img class="logo-mobile" src="images/logo1.png" alt="">
+                                      <img class="logo-main" src="images/logo1.png" alt="Logo">
                                   </a>
                               </div>
+
                               <!-- logo close -->
                           </div>
                           <div class="de-flex-col header-col-mid">

@@ -1,16 +1,22 @@
 .logo-main {
     width: 200px;
-    /*    filter: invert(10) saturate(0) brightness(3.5); */
     margin: 10px 0px;
     transition: width 0.5s ease-in-out;
+    /* Smooth transition */
 }
 
-.logo-scroll,
-.logo-mobile {
+/* For scrolling, resize the logo */
+.logo-main.logo-scroll {
     width: 150px;
-    margin: 10px 0px;
-    transition: width 0.5s ease-in-out;
 }
+
+/* For mobile, resize the logo */
+@media (max-width: 768px) {
+    .logo-main {
+        width: 150px;
+    }
+}
+
 
 /* #mainmenu>li {
     margin-right: 20px !important;

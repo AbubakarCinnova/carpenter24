@@ -122,14 +122,14 @@
    <script src="recaptcha.js"></script>
 
    <script>
-window.onscroll = function() {
+window.addEventListener('scroll', function() {
     var logo = document.querySelector('.logo-main');
     if (window.scrollY > 50) {
         logo.classList.add('logo-scroll');
     } else {
         logo.classList.remove('logo-scroll');
     }
-};
+});
    </script>
    </body>
 
