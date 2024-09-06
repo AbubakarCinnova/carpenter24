@@ -33,22 +33,23 @@
                                            <li><a href="plain-city.php">Plain City</a> </li>
                                            <li><a href="syracuse.php">Syracuse</a> </li>
                                            <li><a href="clearfield.php">Clearfield</a> </li>
+                                       </ul>
+                                   </div>
+                                   <div class="col-md-4">
+                                       <ul>
+                                           <li><a href="roy.php">Roy</a> </li>
+                                           <li><a href="hooper.php">Hooper</a> </li>
+                                           <li><a href="liberty.php">Liberty</a> </li>
+                                           <li><a href="eden.php">Eden</a> </li>
+                                           <li><a href="huntsville.php">Huntsville</a> </li>
+                                           <li><a href="kaysville.php">Kaysville</a> </li>
+                                           <li><a href="layton.php">Layton</a> </li>
+                                           <li><a href="fruit-heights.php">Fruit Heights</a> </li>
 
                                        </ul>
                                    </div>
                                    <div class="col-md-4">
-                                       <li><a href="roy.php">Roy</a> </li>
-                                       <li><a href="hooper.php">Hooper</a> </li>
-                                       <li><a href="liberty.php">Liberty</a> </li>
-                                       <li><a href="eden.php">Eden</a> </li>
-                                       <li><a href="huntsville.php">Huntsville</a> </li>
-                                       <li><a href="kaysville.php">Kaysville</a> </li>
-                                       <li><a href="layton.php">Layton</a> </li>
-                                       <li><a href="fruit-heights.php">Fruit Heights</a> </li>
-                                   </div>
-                                   <div class="col-md-4">
                                        <ul>
-
                                            <li><a href="farmington.php">Farmington</a> </li>
                                            <li><a href="centerville.php">Centerville</a> </li>
                                            <li><a href="bountiful.php">Bountiful</a> </li>
@@ -57,8 +58,6 @@
                                            <li><a href="west-haven.php">West Haven</a> </li>
                                            <li><a href="south-weber.php">South Weber</a> </li>
                                            <li><a href="uintah.php">Uintah</a> </li>
-
-
                                        </ul>
                                    </div>
                                </div>
