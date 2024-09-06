@@ -38,9 +38,9 @@
                               <!-- logo begin -->
                               <div id="logo">
                                   <a href="<?php echo $base_url ?>">
-                                      <img class="logo-main" src="images/carpenter-logo.png" alt="">
-                                      <img class="logo-scroll" src="images/carpenter-logo.png" alt="">
-                                      <img class="logo-mobile" src="images/carpenter-logo.png" alt="">
+                                      <img class="logo-main" src="images/logo1.png" alt="">
+                                      <img class="logo-scroll" src="images/logo2.png" alt="">
+                                      <img class="logo-mobile" src="images/logo1.png" alt="">
                                   </a>
                               </div>
                               <!-- logo close -->
