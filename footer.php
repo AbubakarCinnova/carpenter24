@@ -3,9 +3,10 @@
        <div class="container">
            <div class="row gx-5">
                <div class="col-lg-4 col-sm-6">
-                   <img src="images/logo1.png" style="width: 180px;" alt="footer-logo">
+                   <img src="images/logo1.png" style="width: 200px;" alt="footer-logo">
                    <div class="spacer-20"></div>
-                   <img src="images/lennox_reverse (2).png" style="width: 180px;" alt="lennox-logo">
+                   <div class="spacer-20"></div>
+                   <img src="images/lennox_reverse (2).png" style="width: 200px;" alt="lennox-logo">
 
 
                    <!--  <div class="social-icons mb-sm-30">
