@@ -1,23 +1,16 @@
-/* Initial logo state */
 .logo-main {
-    width: 200px;
-    transition: width 0.5s ease-in-out;
-    /* Smooth transition */
+    width: 180px;
+    /*    filter: invert(10) saturate(0) brightness(3.5); */
+    margin: 10px 0px;
+
 }
 
-/* Shrink logo when scrolling */
-.logo-scroll {
-    width: 150px;
+.logo-scroll,
+.logo-mobile {
+    width: 180px;
+    margin: 10px 0px;
+
 }
-
-/* Shrink logo on mobile devices */
-@media (max-width: 768px) {
-    #logo-img {
-        width: 150px;
-    }
-}
-
-
 
 /* #mainmenu>li {
     margin-right: 20px !important;
