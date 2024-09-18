@@ -117,11 +117,17 @@
 
                         <div class="col-lg-4">
                             <h4>Our Office</h4>
-                            <div class="img-with-cap mb20">
+                            <!-- <div class="img-with-cap mb20">
                                 <div class="d-title">Mon - Fri 08.00 - 18.00</div>
                                 <div class="d-overlay"></div>
                                 <img src="images/misc/5.webp" class="img-fullwidth rounded-1" alt="">
+                            </div> -->
+
+                            <div class="spacer-single"></div>
+
+                            <div class="fw-bold text-dark"><i class="icofont-clock-time me-2 id-color-2"></i>Timing
                             </div>
+                            Mon - Fri 08.00 - 05.00
 
                             <div class="spacer-single"></div>
 
