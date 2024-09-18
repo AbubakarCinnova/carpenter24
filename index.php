@@ -39,61 +39,23 @@
                                                 <div class="col-lg-8 offset-lg-2 text-center">
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
-                                                        <div class="subtitle s2 mb-2">Climate Care</div>
-                                                        <h2 class="slider-title mb-3">Your Partner for Total Climate
-                                                            Control
+                                                        <!-- <div class="subtitle s2 mb-2">Climate Care</div> -->
+                                                        <h2 class="slider-title mb-3">The Best Furnace Repair and Air
+                                                            Conditioning Service
+                                                            In the Greater Ogden Area
                                                         </h2>
-                                                        <h3 class="slider-teaser mb-3">Solution for Comfort and
+                                                        <!--  <h3 class="slider-teaser mb-3">Solution for Comfort and
                                                             Reliability</h3>
                                                         <div class="spacer-10"></div>
                                                         <a class="btn-main mb10 mb-3" href="contact.php">Book a
-                                                            Repair</a>
+                                                            Repair</a> -->
                                                     </div>
                                                 </div>
 
                                                 <div class="spacer-single"></div>
                                             </div>
 
-                                            <div class="row g-4 slider-extra sm-hide">
-                                                <div class="col-lg-4 col-md-6 mb-sm-30">
-                                                    <div class="relative">
-                                                        <img src="images/icons/white/labor.webp"
-                                                            class="absolute w-80px p-3 mb-3 z-2" alt="">
-                                                        <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                                        <div class="pl-100">
-                                                            <h4>Expert Technicians</h4>
-                                                            <p>Trust us to deliver reliable solutions, exceptional
-                                                                service.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
 
-                                                <div class="col-lg-4 col-md-6 mb-sm-30">
-                                                    <div class="relative">
-                                                        <img src="images/icons/white/calendar.webp"
-                                                            class="absolute w-80px p-3 mb-3 z-2" alt="">
-                                                        <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                                        <div class="pl-100">
-                                                            <h4>Flexible Scheduling</h4>
-                                                            <p>Trust us to deliver reliable solutions, exceptional
-                                                                service.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="col-lg-4 col-md-6 mb-sm-30">
-                                                    <div class="relative">
-                                                        <img src="images/icons/white/best-price.webp"
-                                                            class="absolute w-80px p-3 mb-3 z-2" alt="">
-                                                        <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                                        <div class="pl-100">
-                                                            <h4>Transparent Pricing</h4>
-                                                            <p>Trust us to deliver reliable solutions, exceptional
-                                                                service.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
                                     <div class="sw-overlay"></div>
