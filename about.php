@@ -25,7 +25,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/1.webp" class="jarallax-img" alt="">
+                <img src="images/background/carpenter heating and cooling ogden utah.webp" class="jarallax-img" alt="">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
@@ -55,7 +55,7 @@
             <section>
                 <div class="container">
                     <div class="row gx-5 align-items-center">
-                        <div class="col-lg-6">
+                        <div class="col-lg-12">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Welcome to Carpenter Heating and Air
                                 Conditioning: Your Locally-Owned Comfort Partner Since 1960</h2>
@@ -72,7 +72,7 @@
                             </p>
                         </div>
 
-                        <div class="col-lg-6">
+                        <!--     <div class="col-lg-6">
                             <div class="row g-4">
                                 <div class="col-6">
                                     <img src="images/misc/9.webp" class="img-fluid rounded-10 mb-4 wow zoomIn" alt="">
@@ -98,7 +98,7 @@
                                     <img src="images/misc/8.webp" class="img-fluid rounded-10 mt-4 wow zoomIn" alt="">
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
 
