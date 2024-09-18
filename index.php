@@ -102,7 +102,7 @@
                             <!-- Slides -->
 
                             <!-- Slides -->
-                            <div class="swiper-slide">
+                            <!--   <div class="swiper-slide">
                                 <div class="swiper-inner" data-bgimage="url(images/slider/2.webp)">
                                     <div class="sw-caption">
                                         <div class="container">
@@ -172,7 +172,7 @@
                                     </div>
                                     <div class="sw-overlay s2"></div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Slides -->
 
 
