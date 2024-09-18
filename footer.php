@@ -99,8 +99,8 @@
                                unauthorized use is strictly prohibited.
                            </div>
                            <ul class="menu-simple">
-                               <li><a href="#">Terms &amp; Conditions</a></li>
-                               <li><a href="#">Privacy Policy</a></li>
+                               <li><a href="privacy.php">Terms &amp; Conditions</a></li>
+                               <li><a href="privacy.php">Privacy Policy</a></li>
                            </ul>
                        </div>
                    </div>
