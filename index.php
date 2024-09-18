@@ -415,8 +415,9 @@
                                     <div class="col-12 text-center">
                                         <div class="bg-color text-light px-4 pt30 pb10 rounded-10 wow fadeInLeft">
                                             <div class="de_count">
-                                                <h3><span class="timer" data-to="850" data-speed="3000"></span>+</h3>
-                                                <h4>Projects Completed</h4>
+                                                <h3><span class="timer" data-to="133,620" data-speed="3000"></span>+
+                                                </h3>
+                                                <h4>Service Calls</h4>
                                             </div>
                                         </div>
                                     </div>
