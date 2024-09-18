@@ -9,8 +9,8 @@
                                   <div class="topbar-widget"><a href="tel:+18013991127"><i
                                               class="icofont-phone"></i>(801)
                                           399-1127</a></div>
-                                  <div class="topbar-widget"><a href="#"><i
-                                              class="icofont-envelope"></i>contact@coolair.com</a></div>
+                                  <!--    <div class="topbar-widget"><a href="#"><i
+                                              class="icofont-envelope"></i>contact@coolair.com</a></div> -->
                                   <div class="topbar-widget"><a
                                           href="https://www.google.com/search?q=Carpenter+HVAC+Ogden&gs_ivs=1"
                                           target="_blank"><i class="icofont-location-pin"></i>2714 Wall

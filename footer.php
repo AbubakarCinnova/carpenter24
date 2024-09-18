@@ -80,9 +80,9 @@
 
                        <div class="spacer-20"></div>
 
-                       <div class="fw-bold text-white"><i class="icofont-envelope me-2 id-color-2"></i>Send a Message
+                       <!--  <div class="fw-bold text-white"><i class="icofont-envelope me-2 id-color-2"></i>Send a Message
                        </div>
-                       contact@coolair.com
+                       contact@coolair.com -->
                    </div>
                </div>
            </div>
