@@ -94,9 +94,9 @@
                        <div class="de-flex">
                            <div class="de-flex-col">
 
-                               All rights reserved. Our detailed, original content is protected by copyright, <br> and
-                               any
-                               unauthorized use is strictly prohibited.
+                               &copy; 2024 Carpenter Heating and Air Conditioning. All rights reserved. Our detailed,
+                               original content is protected by copyright, and any unauthorized use is strictly
+                               prohibited.
                            </div>
                            <ul class="menu-simple">
                                <li><a href="privacy.php">Terms &amp; Conditions</a></li>
