@@ -31,7 +31,7 @@
                     <div class="container relative z-index-1000">
                         <div class="row align-items-center">
                             <div class="col-lg-6">
-                                <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
+                                <!--                <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div> -->
                                 <h1>Get In Touch</h1>
                                 <ul class="crumb">
                                     <li><a href="index.php">Home</a></li>
