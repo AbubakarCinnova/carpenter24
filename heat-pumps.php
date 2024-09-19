@@ -25,7 +25,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/" class="jarallax-img" alt="">
+                <img src="images/background/dual-fuel 2000x1333pg banner.webp" class="jarallax-img" alt="">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
