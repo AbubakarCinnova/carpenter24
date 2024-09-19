@@ -373,7 +373,8 @@
                         <div class="col-lg-6">
                             <div class="row g-4">
                                 <div class="col-6">
-                                    <img src="images/misc/9.webp" class="img-fluid rounded-10 mb-4 wow scaleIn" alt="">
+                                    <img src="images/misc/repair 750x750.webp"
+                                        class="img-fluid rounded-10 mb-4 wow scaleIn" alt="">
                                     <div class="col-12 text-center">
                                         <div class="bg-color text-light px-4 pt30 pb10 rounded-10 wow fadeInLeft">
                                             <div class="de_count">
@@ -394,7 +395,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <img src="images/misc/8.webp" class="img-fluid rounded-10 mt-4 wow scaleIn" alt="">
+                                    <img src="images/misc/aircon 750x750.webp"
+                                        class="img-fluid rounded-10 mt-4 wow scaleIn" alt="">
                                 </div>
                             </div>
                         </div>
