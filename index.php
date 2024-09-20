@@ -172,7 +172,7 @@
                                         alt=""> -->
                                     <img src="images/misc/Cooling Services.webp" class="img-fluid" alt="service-img-1">
                                 </div>
-                                <div class="padding40 bg-color text-light">
+                                <div class="padding40 bg-color text-light equal-cards">
                                     <h4>Cooling Services
                                     </h4>
                                     <p class="no-bottom">Carpenter Heating and Air provides reliable AC repair and new
@@ -192,7 +192,7 @@
                                         alt=""> -->
                                     <img src="images/misc/Heating Services.webp" class="img-fluid" alt="service-img-2">
                                 </div>
-                                <div class="padding40 bg-color text-light">
+                                <div class="padding40 bg-color text-light equal-cards">
                                     <h4>Heating Services</h4>
                                     <p class="no-bottom">We specialize in furnace repairs, new installations, and heat
                                         pumps to keep your Ogden home warm and comfortable all winter. </p>
@@ -210,7 +210,7 @@
                                         alt=""> -->
                                     <img src="images/misc/repair_1000x665.webp" class="img-fluid" alt="service-img-3">
                                 </div>
-                                <div class="padding40 bg-color text-light">
+                                <div class="padding40 bg-color text-light equal-cards">
                                     <h4>Repair Services
                                     </h4>
                                     <p class="no-bottom">Available 24/7, we handle furnace, AC, and heat pump repairs
