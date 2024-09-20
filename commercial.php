@@ -24,7 +24,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/" class="jarallax-img" alt="heating">
+                <img src="images/background/commercial hvac 2000x1333-min.webp" class="jarallax-img" alt="heating">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
