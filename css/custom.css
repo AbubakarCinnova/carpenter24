@@ -140,5 +140,9 @@ h2.slider-title {
 }
 
 .equal-cards {
-    min-height: 375px;
+    min-height: 370px;
+}
+
+.equal-cards p {
+    font-size: 16px !important;
 }
