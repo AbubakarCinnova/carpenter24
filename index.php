@@ -241,10 +241,13 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Expert HVAC Technicians
+                                    <h4>Skilled HVAC Technicians
+
                                     </h4>
-                                    <p class="mb-0">Our certified experts provide top-tier furnace repair, AC repair,
-                                        and HVAC maintenance services, ensuring your home stays comfortable all year.
+                                    <p class="mb-0">Our certified team provides expert furnace, AC, and HVAC maintenance
+                                        services, ensuring your home’s comfort throughout the year.
+
+
                                     </p>
                                 </div>
                             </div>
@@ -254,10 +257,13 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Transparent HVAC Pricing
+                                    <h4>Clear and Upfront Pricing
+
                                     </h4>
-                                    <p class="mb-0">We offer clear, upfront pricing on all furnace and AC repairs, with
-                                        no hidden fees, making your HVAC budgeting simple and hassle-free.
+                                    <p class="mb-0">We offer transparent pricing for all furnace and AC repairs, so you
+                                        know exactly what to expect, with no hidden fees.
+
+
 
                                     </p>
                                 </div>
@@ -268,9 +274,12 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Emergency HVAC Repair Services</h4>
-                                    <p class="mb-0">Our rapid response team is available for emergency furnace repair
-                                        and AC repair, ensuring your systems are back up and running quickly.
+                                    <h4>24/7 Emergency Repairs
+                                    </h4>
+                                    <p class="mb-0">Our team is available around the clock for urgent furnace and AC
+                                        repairs, quickly restoring comfort to your home.
+
+
 
                                     </p>
                                 </div>
@@ -281,11 +290,13 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Professional HVAC Installation
+                                    <h4>Professional System Installations
+
                                     </h4>
-                                    <p class="mb-0">We specialize in the precise and timely installation of HVAC
-                                        systems, from furnaces to air conditioners, to keep your home’s climate
-                                        perfectly controlled.</p>
+                                    <p class="mb-0">We provide precise and timely installation of HVAC systems,
+                                        including furnaces and air conditioners, for optimal climate control.
+
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -294,10 +305,13 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Top-Quality HVAC Products
+                                    <h4>Premium HVAC Products
+
                                     </h4>
-                                    <p class="mb-0">We use only the best technology and components in our furnace and AC
-                                        installations, ensuring long-term reliability and efficiency.
+                                    <p class="mb-0">We use high-quality components in our installations, ensuring
+                                        lasting performance and energy efficiency for your home.
+
+
                                     </p>
                                 </div>
                             </div>
@@ -307,9 +321,12 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Service First HVAC Approach </h4>
-                                    <p class="mb-0">Our "Service First" philosophy puts your needs at the forefront,
-                                        with personalized HVAC solutions and unmatched customer support.
+                                    <h4>Service-First Approach
+                                    </h4>
+                                    <p class="mb-0">Our "Service First" commitment means your needs come first, with
+                                        personalized HVAC solutions and exceptional support.
+
+
                                     </p>
                                 </div>
                             </div>
