@@ -7,7 +7,7 @@
 <body>
     <div id="wrapper">
         <div class="float-text show-on-scroll">
-            <span><a href="#">Scroll to top</a></p></span>
+            <span><a href="#">Scroll to top</a></span>
         </div>
         <div class="scrollbar-v show-on-scroll"></div>
 
@@ -29,7 +29,7 @@
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Service Overview</div>
                             <h1>Our Service</h1>
                             <ul class="crumb">
-                                <li><a href="index.php">Home</a></p>
+                                <li><a href="index.php">Home</a>
                                 </li>
                                 <li class="active">Our Service</li>
                             </ul>
@@ -45,7 +45,7 @@
                 <a href="contact.php">
                     <img src="images/svg/phone-calling-svgrepo-com.svg"
                         class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="">
-                </a></p>
+                </a>
             </div>
 
             <section>
