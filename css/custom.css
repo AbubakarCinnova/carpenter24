@@ -113,11 +113,13 @@ h2.slider-title {
 
 .sw-text-wrapper h2 {
     font-size: 3.5rem !important;
+    font-weight: 900 !important;
 }
 
 
 .sw-text-wrapper h3 {
     font-size: 2rem !important;
+    font-weight: 900 !important;
 }
 
 .sw-text-wrapper h4 {
