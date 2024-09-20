@@ -36,7 +36,7 @@
 
                                                 <div class="spacer-double"></div>
 
-                                                <div class="col-lg-12  text-center">
+                                                <div class="col-lg-8 offset-lg-2 text-center">
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
                                                         <!-- <div class="subtitle s2 mb-2">Climate Care</div> -->
