@@ -383,7 +383,7 @@
                         <div class="col-lg-12">
                             <div class="rounded-20px bg-color  overflow-hidden">
                                 <div class="row align-items-center g-0">
-                                    <div class="col-lg-6">
+                                    <!--  <div class="col-lg-6">
                                         <div
                                             class="h-100 padding60 sm-padding40 overflow-hidden position-relative text-light jarallax">
                                             <div class="spacer-double"></div>
@@ -391,8 +391,8 @@
                                                 class="jarallax-img" alt="">
                                             <div class="spacer-double"></div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-6 text-center">
+                                    </div> -->
+                                    <div class="col-lg-12 text-center">
                                         <div class="h-100 text-light">
                                             <div class="spacer-double"></div>
                                             <div class="subtitle s2 mb-2">24 Hours &amp; Emergencies</div>
