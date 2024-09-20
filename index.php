@@ -154,7 +154,7 @@
                     <div class="row g-4 justify-content-center">
                         <div class="row">
                             <div class="col-lg-6 offset-lg-3 text-center">
-                                <div class="subtitle bg-color-3 wow fadeInUp mb-3">Complete Solutions</div>
+                                <!-- <div class="subtitle bg-color-3 wow fadeInUp mb-3">Complete Solutions</div> -->
                                 <h2 class="wow fadeInUp" data-wow-delay=".2s">Our Services</h2>
                                 <!--  <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip
                                     ut dolore
@@ -165,18 +165,19 @@
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
                             <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
-                                    <img src="images/svg/air-conditioner-svgrepo-com.svg"
+                                    <!--   <img src="images/svg/air-conditioner-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color-3 rounded-10px absolute"
-                                        alt="">
-                                    <img src="images/misc/services-1.webp" class="img-fluid" alt="">
+                                        alt=""> -->
+                                    <img src="images/misc/Cooling Services.webp" class="img-fluid" alt="service-img-1">
                                 </div>
                                 <div class="padding40 bg-color text-light">
-                                    <h4>Installation</h4>
-                                    <p class="no-bottom">Trust us to deliver reliable solutions, exceptional service,
-                                        and peace
-                                        of mind for all your HVAC needs. </p>
+                                    <h4>Cooling Services
+                                    </h4>
+                                    <p class="no-bottom">Carpenter Heating and Air provides reliable AC repair and new
+                                        installations in Ogden, ensuring your home stays cool and efficient all summer.
+                                    </p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-dark-trans" href="installation.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="cooling.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -184,18 +185,17 @@
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                             <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
-                                    <img src="images/svg/wrench-line-svgrepo-com.svg"
+                                    <!--  <img src="images/svg/wrench-line-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color-2 rounded-10px absolute"
-                                        alt="">
-                                    <img src="images/misc/services-2.webp" class="img-fluid" alt="">
+                                        alt=""> -->
+                                    <img src="images/misc/Heating Services.webp" class="img-fluid" alt="service-img-2">
                                 </div>
                                 <div class="padding40 bg-color text-light">
-                                    <h4>Repair</h4>
-                                    <p class="no-bottom">Trust us to deliver reliable solutions, exceptional service,
-                                        and peace
-                                        of mind for all your HVAC needs. </p>
+                                    <h4>Heating Services</h4>
+                                    <p class="no-bottom">We specialize in furnace repairs, new installations, and heat
+                                        pumps to keep your Ogden home warm and comfortable all winter. </p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-dark-trans" href="repair.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="heating.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -203,18 +203,19 @@
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
                             <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
-                                    <img src="images/svg/completed-order-svgrepo-com.svg"
+                                    <!--    <img src="images/svg/completed-order-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color rounded-10px absolute"
-                                        alt="">
-                                    <img src="images/misc/services-3.webp" class="img-fluid" alt="">
+                                        alt=""> -->
+                                    <img src="images/misc/repair_1000x665.webp" class="img-fluid" alt="service-img-3">
                                 </div>
                                 <div class="padding40 bg-color text-light">
-                                    <h4>Maintenance</h4>
-                                    <p class="no-bottom">Trust us to deliver reliable solutions, exceptional service,
-                                        and peace
-                                        of mind for all your HVAC needs. </p>
+                                    <h4>Repair Services
+                                    </h4>
+                                    <p class="no-bottom">Available 24/7, we handle furnace, AC, and heat pump repairs
+                                        across the Greater Ogden Area, ensuring your home stays comfortable year-round.
+                                    </p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-dark-trans" href="maintenance.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="repair.php">Read more</a>
                                 </div>
                             </div>
 
