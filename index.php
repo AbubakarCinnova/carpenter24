@@ -36,11 +36,11 @@
 
                                                 <div class="spacer-double"></div>
 
-                                                <div class="col-lg-8 offset-lg-2 text-center">
+                                                <div class="col-lg-10 offset-lg-2 text-center">
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
                                                         <!-- <div class="subtitle s2 mb-2">Climate Care</div> -->
-                                                        <h2 class="slider-title mb-3">Affordable, Expert HVAC Services
+                                                        <h2 class="slider-title mb-3 ">Affordable, Expert HVAC Services
                                                         </h2>
                                                         <h3 class="slider-teaser mb-3">Serving the Greater Ogden Area
                                                             for Over 60 Years</h3>
