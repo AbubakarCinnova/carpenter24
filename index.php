@@ -163,7 +163,7 @@
                         </div>
 
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
-                            <div class="rounded-20px overflow-hidden shadow-sm">
+                            <div class="rounded-20px overflow-hidden shadow-custom">
                                 <div class="relative">
                                     <!--   <img src="images/svg/air-conditioner-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color-3 rounded-10px absolute"
@@ -183,7 +183,7 @@
                         </div>
 
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
-                            <div class="rounded-20px overflow-hidden shadow-sm">
+                            <div class="rounded-20px overflow-hidden shadow-custom">
                                 <div class="relative">
                                     <!--  <img src="images/svg/wrench-line-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color-2 rounded-10px absolute"
@@ -201,7 +201,7 @@
                         </div>
 
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
-                            <div class="rounded-20px overflow-hidden shadow-sm">
+                            <div class="rounded-20px overflow-hidden shadow-custom">
                                 <div class="relative">
                                     <!--    <img src="images/svg/completed-order-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color rounded-10px absolute"
