@@ -40,13 +40,13 @@
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
                                                         <!-- <div class="subtitle s2 mb-2">Climate Care</div> -->
-                                                        <h2 class="slider-title mb-3">The Best Furnace Repair and Air
-                                                            Conditioning Service
-                                                            In the Greater Ogden Area
+                                                        <h2 class="slider-title mb-3">Affordable, Expert HVAC Services
                                                         </h2>
-                                                        <!--  <h3 class="slider-teaser mb-3">Solution for Comfort and
-                                                            Reliability</h3>
-                                                        <div class="spacer-10"></div>
+                                                        <h3 class="slider-teaser mb-3">Serving the Greater Ogden Area
+                                                            for Over 60 Years</h3>
+                                                        <h4>Building Lasting Customer Relationships on a Foundation of
+                                                            Service</h4>
+                                                        <!-- <div class="spacer-10"></div>
                                                         <a class="btn-main mb10 mb-3" href="contact.php">Book a
                                                             Repair</a> -->
                                                     </div>
