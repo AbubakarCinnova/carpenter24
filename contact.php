@@ -122,7 +122,7 @@
                         </div>
 
                         <div class="col-lg-4">
-                            <h4>Our Office</h4>
+                            <!--  <h4>Our Office</h4> -->
                             <!-- <div class="img-with-cap mb20">
                                 <div class="d-title">Mon - Fri 08.00 - 18.00</div>
                                 <div class="d-overlay"></div>
@@ -131,7 +131,8 @@
 
                             <div class="spacer-single"></div>
 
-                            <div class="fw-bold text-dark"><i class="icofont-clock-time me-2 id-color-2"></i>Timing
+                            <div class="fw-bold text-dark"><i class="icofont-clock-time me-2 id-color-2"></i>Office
+                                Hours
                             </div>
                             Mon - Fri 08.00 - 05.00
 
