@@ -163,7 +163,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4> Transparent HVAC Pricing
                                             </h4>
@@ -194,7 +194,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".6s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Professional HVAC Installation
                                             </h4>
@@ -227,7 +227,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="1s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Top-Quality HVAC Products
                                             </h4>
