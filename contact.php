@@ -89,6 +89,12 @@
                                     </div>
 
                                     <div class="col-lg-6 col-md-6">
+                                        <div class="field-set">
+                                            <span class="d-label">City</span>
+                                            <input type="text" name=city" id="city" class="form-control"
+                                                placeholder="Your City" required>
+                                        </div>
+
                                         <div class="field-set mb20">
                                             <span class="d-label">Message</span>
                                             <textarea name="message" id="message" class="form-control"
