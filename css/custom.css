@@ -13,6 +13,13 @@
 }
 
 
+#mainmenu>li {
+    margin-right: 28px !important;
+}
+
+#mainmenu>li>a {
+    font-size: 14px !important;
+}
 
 @media only screen and (max-width: 992px) {
     .header-col-mid #mainmenu {
