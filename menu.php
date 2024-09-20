@@ -74,6 +74,10 @@
 
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul class="sub-menu">
+                                          <li>
+                                              <a class="menu-item" href="services.php">Services Overview </a>
+                                          </li>
+
                                           <li> <a class="menu-item " href="maintenance.php">Maintenance Plan</a> </li>
 
                                           <li> <a class="menu-item" href="air-quality.php">Air Quality </a></li>
