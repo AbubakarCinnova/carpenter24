@@ -340,7 +340,7 @@
                         <div class="col-lg-6">
                             <div class="row g-4">
                                 <div class="col-6">
-                                    <img src="images/misc/repair 750x750.webp"
+                                    <img src="images/misc/home_humitfier_750x750 (1).webp"
                                         class="img-fluid rounded-10 mb-4 wow scaleIn" alt="">
                                     <div class="col-12 text-center">
                                         <div class="bg-color text-light px-4 pt30 pb10 rounded-10 wow fadeInLeft">
