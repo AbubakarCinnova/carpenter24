@@ -23,6 +23,6 @@ $pp->requireReCaptcha();
 $pp->getReCaptcha()->initSecretKey('6Le7_BcqAAAAAA_e0D-JBhumGAsVpKTNx72bCXVe');
 
 
-$pp->sendEmailTo('amahboob@cinnova.com'); // ← Your email here
+$pp->sendEmailTo('carpenterheating@gmail.com'); // ← Your email here
 
 echo $pp->process($_POST);
