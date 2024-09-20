@@ -1,6 +1,8 @@
 <?php include('header.php'); ?>
 
 <title>Carpenter Heating and Air Conditioning | Home</title>
+<meta name="description"
+    content=" Carpenter Heating and Air Conditioning: Over 60 years of trusted furnace repair and AC repair in Ogden, Utah. Family-owned, service-first philosophy.">
 
 </head>
 
