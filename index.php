@@ -64,8 +64,8 @@
                             <!-- Slides -->
 
                             <!-- Slides -->
-                            <!--   <div class="swiper-slide">
-                                <div class="swiper-inner" data-bgimage="url(images/slider/2.webp)">
+                            <div class="swiper-slide">
+                                <div class="swiper-inner" data-bgimage="url(images/slider/fall_tune_up_2000x1333.webp)">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
@@ -75,66 +75,30 @@
                                                 <div class="col-lg-8 offset-lg-2 text-center">
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
-                                                        <div class="subtitle s2 mb-2">Pure Comfort</div>
-                                                        <h2 class="slider-title mb-3">Making Every Season Feel Just
-                                                            Right</h2>
-                                                        <h3 class="slider-teaser mb-3">Solution for Comfort and
-                                                            Reliability</h3>
+                                                        <!--    <div class="subtitle s2 mb-2">Pure Comfort</div> -->
+                                                        <h2 class="slider-title mb-3"> The Beauty of Fall Means It’s
+                                                            Time to Prepare
+
+                                                        </h2>
+                                                        <h3 class="slider-teaser mb-3"> Schedule Your Furnace
+                                                            Maintenance Today for a Warm, Cozy Winter
+                                                        </h3>
                                                         <div class="spacer-10"></div>
-                                                        <a class="btn-main mb10 mb-3" href="contact.php">Book a
-                                                            Repair</a>
+                                                        <a class="btn-main mb10 mb-3" href="contact.php">Schedule
+                                                            Service</a>
                                                     </div>
                                                 </div>
 
                                                 <div class="spacer-single"></div>
                                             </div>
 
-                                            <div class="row g-4 slider-extra sm-hide">
-                                                <div class="col-lg-4 col-md-6 mb-sm-30">
-                                                    <div class="relative">
-                                                        <img src="images/icons/white/labor.webp"
-                                                            class="absolute w-80px p-3 mb-3 z-2" alt="">
-                                                        <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                                        <div class="pl-100">
-                                                            <h4>Expert Technicians</h4>
-                                                            <p>Trust us to deliver reliable solutions, exceptional
-                                                                service.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
 
-                                                <div class="col-lg-4 col-md-6 mb-sm-30">
-                                                    <div class="relative">
-                                                        <img src="images/icons/white/calendar.webp"
-                                                            class="absolute w-80px p-3 mb-3 z-2" alt="">
-                                                        <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                                        <div class="pl-100">
-                                                            <h4>Flexible Scheduling</h4>
-                                                            <p>Trust us to deliver reliable solutions, exceptional
-                                                                service.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="col-lg-4 col-md-6 mb-sm-30">
-                                                    <div class="relative">
-                                                        <img src="images/icons/white/best-price.webp"
-                                                            class="absolute w-80px p-3 mb-3 z-2" alt="">
-                                                        <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                                        <div class="pl-100">
-                                                            <h4>Transparent Pricing</h4>
-                                                            <p>Trust us to deliver reliable solutions, exceptional
-                                                                service.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
 
                                         </div>
                                     </div>
                                     <div class="sw-overlay s2"></div>
                                 </div>
-                            </div> -->
+                            </div>
                             <!-- Slides -->
 
 
