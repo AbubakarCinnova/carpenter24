@@ -47,7 +47,8 @@
                           </div>
                           <div class="de-flex-col header-col-mid">
                               <ul id="mainmenu">
-                                  <li><a class="menu-item" href="<?php echo $base_url ?>">Home</a>
+                                  <li><a class="menu-item" href="<?php echo $base_url ?>"><i
+                                              class="icofont-phone"></i></a>
                                   </li>
                                   <li><a class="menu-item" href="about.php">About</a></li>
 
