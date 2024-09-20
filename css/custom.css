@@ -128,3 +128,8 @@ h2.slider-title {
     /*  font-size: 2rem !important; */
     font-weight: 900 !important;
 }
+
+
+#contact_form textarea {
+    height: 151px !important;
+}
