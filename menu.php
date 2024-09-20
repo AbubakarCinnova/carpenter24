@@ -84,6 +84,8 @@
 
                                           <li> <a class="menu-item" href="pool-dehumidfication.php">Pool Dehumidfication
                                               </a></li>
+                                          <li> <a class="menu-item" href="repair.php">Repair
+                                              </a></li>
 
 
                                       </ul>
