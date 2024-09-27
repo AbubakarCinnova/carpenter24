@@ -208,7 +208,8 @@
                                     <!--    <img src="images/svg/completed-order-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color rounded-10px absolute"
                                         alt=""> -->
-                                    <img src="images/misc/repair_1000x665.webp" class="img-fluid" alt="service-img-3">
+                                    <img src="images/misc/repair_1000x665 (1).webp" class="img-fluid"
+                                        alt="service-img-3">
                                 </div>
                                 <div class="padding40 bg-color text-light equal-cards">
                                     <h4>Repair Services
